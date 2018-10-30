@@ -6,8 +6,38 @@
  * @flow
  */
 
-import React, { Component } from 'react';
+import React from 'react';
 import { Text, View, StyleSheet, Alert, Button } from 'react-native';
+import { createStackNavigator, } from 'react-navigation';
+
+
+const RootStack = createStackNavigator({
+  Home: { screen: HomeScreen },
+
+  }
+  );
+
+class HomeScreen extends React.Component {
+  render() {
+    return (
+
+      <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+        <Text>Home Screen</Text>
+      </View>
+    );  
+  }
+}
+
+class MapScreen extends React.Component {
+  render() {
+    return(
+      <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+      <Text>Details Screen</Text>
+    </View>
+    );  
+  }
+}
+
 
 class Br extends Component {
  render() {
@@ -31,16 +61,11 @@ class EasyButton extends Component {
  }
 }
 
-
+//Main Class
 export default class BarHopper extends Component {
   render() {
    return (
-     <View style={styles.container}>
-       <View style={styles.txtContainer}>
-       <Text style={styles.orangeText}> Yo <Br/> Hi <Br/> How Are You </Text>
-       <EasyButton title='Test'/>
-       </View>
-     </View>
+      <RootStack />
    );
  }
 }
