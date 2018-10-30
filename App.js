@@ -11,7 +11,11 @@ import { Text, View, StyleSheet, Alert, Button } from 'react-native';
 import { createStackNavigator, } from 'react-navigation';
 
 
+<<<<<<< HEAD
 const RootStackm = createStackNavigator({
+=======
+const RootStack = createStackNavigator({
+>>>>>>> Tommy
   Home: { screen: HomeScreen },
 
   }
