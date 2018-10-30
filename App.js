@@ -11,12 +11,9 @@ import { Text, View, StyleSheet, Alert, Button } from 'react-native';
 import { createStackNavigator, } from 'react-navigation';
 
 
-const RootStack = createStackNavigator({
+const RootStackm = createStackNavigator({
   Home: { screen: HomeScreen },
-  Map: {screen: MapScreen},
-  },
-  {
-    initialRouteName: 'Home',
+
   }
   );
 
