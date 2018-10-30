@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Views/RCTView.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTView.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h
