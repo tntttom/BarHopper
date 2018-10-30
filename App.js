@@ -6,20 +6,10 @@
  * @flow
  */
 
-import React from 'react';
+import React, {Component} from 'react';
 import { Text, View, StyleSheet, Alert, Button } from 'react-native';
 import { createStackNavigator, } from 'react-navigation';
-
-
-<<<<<<< HEAD
-const RootStackm = createStackNavigator({
-=======
-const RootStack = createStackNavigator({
->>>>>>> Tommy
-  Home: { screen: HomeScreen },
-
-  }
-  );
+ 
 
 class HomeScreen extends React.Component {
   render() {
@@ -64,6 +54,13 @@ class EasyButton extends Component {
    )
  }
 }
+
+//used to call new screens
+const RootStack = createStackNavigator({
+  Home: { screen: HomeScreen },
+
+  }
+  );
 
 //Main Class
 export default class BarHopper extends Component {
