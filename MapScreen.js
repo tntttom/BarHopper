@@ -22,7 +22,7 @@ const CARD_HEIGHT = height / 4;
 const CARD_WIDTH = CARD_HEIGHT - 50;
 
 export default class MapScreen extends React.Component {
-  _onPressButton(){
+  _onPressCard(){
     Alert.alert('you tapped a bar!');
   }
     state = {
@@ -156,7 +156,7 @@ export default class MapScreen extends React.Component {
                 contentContainerStyle={styles.endPadding}
                 >
                 {this.state.markers.map((marker, index) => (
-                  <TouchableOpacity onPress={this._onPressButton}>
+                  <TouchableOpacity onPress={this._onPressCard}>
 
                       <View style={styles.card} key={index}>
                       <Image
