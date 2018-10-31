@@ -8,6 +8,8 @@ import {
     Animated,
     Image,
     Dimensions,
+    TouchableOpacity,
+    Alert,
 } from "react-native";
 import MapView from "react-native-maps";
 
@@ -20,6 +22,9 @@ const CARD_HEIGHT = height / 4;
 const CARD_WIDTH = CARD_HEIGHT - 50;
 
 export default class MapScreen extends React.Component {
+  _onPressButton(){
+    Alert.alert('you tapped a bar!');
+  }
     state = {
         markers: [
           {
@@ -136,7 +141,7 @@ export default class MapScreen extends React.Component {
                 snapToInterval={CARD_WIDTH}
                 onScroll={Animated.event(
                     [
-                    {
+                    { 
                         nativeEvent: {
                         contentOffset: {
                             x: this.animation,
@@ -151,19 +156,23 @@ export default class MapScreen extends React.Component {
                 contentContainerStyle={styles.endPadding}
                 >
                 {this.state.markers.map((marker, index) => (
-                    <View style={styles.card} key={index}>
-                    <Image
-                        source={marker.image}
-                        style={styles.cardImage}
-                        resizeMode="cover"
-                    />
-                    <View style={styles.textContent}>
-                        <Text numberOfLines={1} style={styles.cardtitle}>{marker.title}</Text>
-                        <Text numberOfLines={1} style={styles.cardDescription}>
-                        {marker.description}
-                        </Text>
-                    </View>
-                    </View>
+                  <TouchableOpacity onPress={this._onPressButton}>
+
+                      <View style={styles.card} key={index}>
+                      <Image
+                          source={marker.image}
+                          style={styles.cardImage}
+                          resizeMode="cover"
+                      />
+                      <View style={styles.textContent}>
+                          <Text numberOfLines={1} style={styles.cardtitle}>{marker.title}</Text>
+                          <Text numberOfLines={1} style={styles.cardDescription}>
+                          {marker.description}
+                          </Text>
+                      </View>
+                      </View>
+
+                    </TouchableOpacity>
                 ))}
             </Animated.ScrollView>
             </View>
