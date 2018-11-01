@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTFrameUpdate.m \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/tommynguyen/Documents/GitHub/BarHopper/node_modules/react-native/React/Base/RCTDefines.h
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTFrameUpdate.m \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTDefines.h
