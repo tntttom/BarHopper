@@ -5,12 +5,15 @@ export default class Home extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-
+        <Text>Home Screen</Text>
+        <Button 
+          title="Go To Map"
+          onPress={() => this.props.navigation.push('Map')}
+          />
+        
         <Button
-            title="Go to map"
-            onPress={() =>
-                this.props.navigation.navigate('MapScreen')
-            }
+          title="Go To List"
+          onPress={() => this.props.navigation.push('List')}
         />
       </View>
     );
