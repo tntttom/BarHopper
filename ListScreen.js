@@ -24,7 +24,7 @@ export default class ListScreen extends React.Component {
           
   
           <BarCell/>
-          
+
           <BarCell/>
   
           <BarCell/>
