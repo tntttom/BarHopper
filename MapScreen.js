@@ -23,6 +23,7 @@ const CARD_WIDTH = CARD_HEIGHT - 50;
 
 export default class MapScreen extends React.Component {
   _onPressCard(){
+    //Will eventually bring the user to a different page with displayed content
     Alert.alert('you tapped a bar!');
   }
     state = {
