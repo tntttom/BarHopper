@@ -1,9 +1,11 @@
-class BarCell extends Component {
+import React from 'react';
+import { StyleSheet, Text, View, Button} from 'react-native';
+
+export default class BarCell extends React.Component {
     render() {
       return(
         <View style ={styles.cellContainer}>
           <View>
-            
   
           </View>
             <View style={styles.imageCellContainer}>

@@ -1,4 +1,8 @@
-class ListScreen extends React.Component {
+import React, {Component} from 'react';
+import { StyleSheet, Text, View, Button, ScrollView} from 'react-native';
+import BarCell from './BarCell';
+
+export default class ListScreen extends React.Component {
     static navigationOptions = { };
   
     render () {
@@ -9,12 +13,12 @@ class ListScreen extends React.Component {
           <View>
           <Button
             title='Map'
-            onPress={() => this.props.navigation.push('Map')}
+            onPress={() => this.props.navigation.push('MapScreen')}
           />
           <Button
             title='List'
             disabled={true}
-            onPress={() => this.props.navigation.push('List')}
+            onPress={() => this.props.navigation.push('ListScreen')}
           />
           </View>
           
