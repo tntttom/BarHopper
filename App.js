@@ -8,7 +8,7 @@
 
 import React, {Component} from 'react';
 
-import AppNavigator from './AppNavigator';  
+import AppNavigator from './screens/AppNavigator';  
 
 //Main Class
 export default class BarHopper extends React.Component {
