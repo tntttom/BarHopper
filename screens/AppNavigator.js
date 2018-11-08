@@ -14,12 +14,30 @@ const AppNavigator = createStackNavigator({
         },
         MapScreen: { 
             screen: MapScreen,
+            navigationOptions: ({ navigation }) => ({
+                title:'Find your deal',
+                headerStyle: {
+                    backgroundColor: 'orange'
+                }
+            })
         },
         ListScreen: { 
-            screen: ListScreen
+            screen: ListScreen,
+            navigationOptions: ({ navigation }) => ({
+                title:'Bars',
+                headerStyle: {
+                    backgroundColor: 'orange'
+                }
+            })
         },
         BarInformationScreen: {
             screen: BarInformationScreen,
+            navigationOptions: ({ navigation }) => ({
+                title:'Bar Information',
+                headerStyle: {
+                    backgroundColor: 'orange'
+                }
+            })
         },
             
     },

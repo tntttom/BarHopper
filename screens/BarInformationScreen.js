@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import { StyleSheet, Text, View, Button, ScrollView} from 'react-native';
-import BarCell from '../custom styles/BarCell';
 
 export default class BarInformationScreen extends React.Component {
   
