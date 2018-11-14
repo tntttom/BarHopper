@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/ReactCommon/cxxreact/JSCMemory.cpp \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/ReactCommon/cxxreact/JSCMemory.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/ReactCommon/cxxreact/JSCMemory.cpp \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/ReactCommon/cxxreact/JSCMemory.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h

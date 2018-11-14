@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>39A0450D-4F12-4C4B-B28F-B67EA7C92D2B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>39A0450D-4F12-4C4B-B28F-B67EA7C92D2B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BarHopper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BarHopper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>563836320.74532497</real>
+			<key>timeStoppedRecording</key>
+			<real>563836339.874946</real>
+			<key>title</key>
+			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>39A0450D-4F12-4C4B-B28F-B67EA7C92D2B</string>
+		</dict>
+		<key>CC6C557B-E1C7-4DDA-9920-24D4EAE8DF7D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CC6C557B-E1C7-4DDA-9920-24D4EAE8DF7D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BarHopper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BarHopper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>563914857.40767002</real>
+			<key>timeStoppedRecording</key>
+			<real>563914870.26268101</real>
+			<key>title</key>
+			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CC6C557B-E1C7-4DDA-9920-24D4EAE8DF7D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

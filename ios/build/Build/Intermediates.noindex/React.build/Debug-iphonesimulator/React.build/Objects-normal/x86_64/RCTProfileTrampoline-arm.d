@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Profiler/RCTProfileTrampoline-arm.S \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Profiler/RCTMacros.h
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/React/Profiler/RCTProfileTrampoline-arm.S \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/React/Profiler/RCTMacros.h

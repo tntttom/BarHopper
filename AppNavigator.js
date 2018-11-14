@@ -7,6 +7,7 @@ const AppNavigator = createStackNavigator({
     Home: { screen: Home },
     MapScreen: { screen: MapScreen },
     ListScreen: { screen: ListScreen},
+    LoginScreen: { screen: LoginScreen},
     },
     {
         headerMode: 'none',

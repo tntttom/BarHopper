@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/ReactCommon/jschelpers/systemJSCWrapper.cpp \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/../ReactCommon/jschelpers/JSCWrapper.h
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/ReactCommon/jschelpers/systemJSCWrapper.cpp \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/ReactCommon/jschelpers/JSCWrapper.h

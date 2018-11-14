@@ -1,2 +1,3 @@
-dependencies: /Users/tylernguyen/barhopper/BarHopper/ios/BarHopper/main.m \
-  /Users/tylernguyen/barhopper/BarHopper/ios/BarHopper/AppDelegate.h
+dependencies: \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/BarHopper/main.m \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/BarHopper/AppDelegate.h

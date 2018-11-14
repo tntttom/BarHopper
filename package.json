@@ -1,5 +1,5 @@
 {
-  "name": "BarHopper",
+  "name": "firebase",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -20,5 +20,20 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "for use with BarHopper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tntttom/BarHopper.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tntttom/BarHopper/issues"
+  },
+  "homepage": "https://github.com/tntttom/BarHopper#readme"
 }

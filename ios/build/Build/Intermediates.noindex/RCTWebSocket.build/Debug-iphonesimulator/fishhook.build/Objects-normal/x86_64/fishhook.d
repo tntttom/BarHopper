@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/Libraries/fishhook/fishhook.c \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/Libraries/fishhook/fishhook.h
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/Libraries/fishhook/fishhook.c \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/Libraries/fishhook/fishhook.h

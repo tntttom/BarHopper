@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
