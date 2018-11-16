@@ -6,35 +6,6 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>73A88A2A-3DE7-49D8-B1A1-F1B332941BD9</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>73A88A2A-3DE7-49D8-B1A1-F1B332941BD9.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>BarHopper project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>BarHopper</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>563928301.00502598</real>
-			<key>timeStoppedRecording</key>
-			<real>563928302.53362298</real>
-			<key>title</key>
-			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>73A88A2A-3DE7-49D8-B1A1-F1B332941BD9</string>
-		</dict>
 		<key>C8A028F4-6BA7-41FB-95A2-AA1F6100489B</key>
 		<dict>
 			<key>className</key>
@@ -63,6 +34,35 @@
 			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
 			<key>uniqueIdentifier</key>
 			<string>C8A028F4-6BA7-41FB-95A2-AA1F6100489B</string>
+		</dict>
+		<key>CB31E309-B1BF-4BB0-B871-1413C89FCA74</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CB31E309-B1BF-4BB0-B871-1413C89FCA74.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BarHopper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BarHopper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564020962.558447</real>
+			<key>timeStoppedRecording</key>
+			<real>564020964.23191297</real>
+			<key>title</key>
+			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CB31E309-B1BF-4BB0-B871-1413C89FCA74</string>
 		</dict>
 	</dict>
 </dict>
