@@ -1,12 +1,13 @@
+// import libraries
 import React from 'react';
 import { StyleSheet, Text, View, Button} from 'react-native';
 
 export default class Home extends React.Component {
   render() {
     return (
-
       <View style={styles.container}>
         <Text>Home Screen</Text>
+      
         <Button 
           title="Go To Map"
           onPress={() => this.props.navigation.push('MapScreen')}
@@ -16,6 +17,12 @@ export default class Home extends React.Component {
           title="Go To List"
           onPress={() => this.props.navigation.push('ListScreen')}
         />
+
+        <Button
+          title = "Sign Up / Log In"
+          onPress = {() => this.props.navigation.push('LoginScreen')}
+        />
+
       </View>
     ); 
   }

@@ -9,6 +9,7 @@
 import React, {Component} from 'react';
 
 import AppNavigator from './AppNavigator';  
+import Firebase from './Firebase';
 
 //Main Class
 export default class BarHopper extends React.Component {
@@ -18,6 +19,12 @@ export default class BarHopper extends React.Component {
       <AppNavigator/>
    );
  }
+
+/* 
+  var firebase = require('firebase');
+  var app = firebase.initializeApp({BarHopper});
+*/
+
 }
 
 

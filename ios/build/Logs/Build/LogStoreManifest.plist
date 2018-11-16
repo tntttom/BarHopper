@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>39A0450D-4F12-4C4B-B28F-B67EA7C92D2B</key>
+		<key>73A88A2A-3DE7-49D8-B1A1-F1B332941BD9</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>39A0450D-4F12-4C4B-B28F-B67EA7C92D2B.xcactivitylog</string>
+			<string>73A88A2A-3DE7-49D8-B1A1-F1B332941BD9.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,15 +27,15 @@
 			<key>signature</key>
 			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>563836320.74532497</real>
+			<real>563928301.00502598</real>
 			<key>timeStoppedRecording</key>
-			<real>563836339.874946</real>
+			<real>563928302.53362298</real>
 			<key>title</key>
 			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>39A0450D-4F12-4C4B-B28F-B67EA7C92D2B</string>
+			<string>73A88A2A-3DE7-49D8-B1A1-F1B332941BD9</string>
 		</dict>
-		<key>CC6C557B-E1C7-4DDA-9920-24D4EAE8DF7D</key>
+		<key>C8A028F4-6BA7-41FB-95A2-AA1F6100489B</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -44,7 +44,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>CC6C557B-E1C7-4DDA-9920-24D4EAE8DF7D.xcactivitylog</string>
+			<string>C8A028F4-6BA7-41FB-95A2-AA1F6100489B.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -56,13 +56,13 @@
 			<key>signature</key>
 			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>563914857.40767002</real>
+			<real>564020687.84703302</real>
 			<key>timeStoppedRecording</key>
-			<real>563914870.26268101</real>
+			<real>564020705.15393102</real>
 			<key>title</key>
 			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>CC6C557B-E1C7-4DDA-9920-24D4EAE8DF7D</string>
+			<string>C8A028F4-6BA7-41FB-95A2-AA1F6100489B</string>
 		</dict>
 	</dict>
 </dict>
