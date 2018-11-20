@@ -1,42 +1,76 @@
 import React, {Component} from 'react';
-import { StyleSheet, Text, View, Button, ScrollView} from 'react-native';
+import { StyleSheet, Text, View, ScrollView, TouchableOpacity, Button, Segment, Container} from 'react-native';
 import BarCell from './BarCell';
 
 export default class ListScreen extends React.Component {
-    static navigationOptions = { };
+
+  _onPressCell(){
+    
+    this.props.navigation.push('InfoScreen')
+
+  }
+
+  state = {
+    markers: [
+      {
+        name : 'Tommy'
+      },
+      {
+        name : 'Tyler'
+      },
+      {
+        name: 'Tommy'
+      },
+      {
+        name: 'Ryan'
+      },
+    ],
+  };
+
+
+    static navigationOptions = {
   
+     };
+  
+
+
     render () {
       return (
+
+             
+      
+      
   
         <ScrollView style={styles.listView}>
-  
-          <View>
-          <Button
-            title='Map'
-            onPress={() => this.props.navigation.push('MapScreen')}
-          />
-          <Button
-            title='List'
-            disabled={true}
-            onPress={() => this.props.navigation.push('ListScreen')}
-          />
-          </View>
-          
-  
-          <BarCell/>
 
-          <BarCell/>
-  
-          <BarCell/>
+          <Button first onPress={() => this.props.navigation.push('MapScreen')}
+          title='TouchMe' />
+         
+
+          <Button  onPress={() => this.props.navigation.push('ListScreen')}
+          title='Touch'
+          />
+
+          {this.state.markers.map((marker, index) => (
+              <TouchableOpacity onPress={() => this.props.navigation.push('InfoScreen')}>
+
+                <BarCell />
+            
+               </TouchableOpacity>
+                ))}
+
   
         </ScrollView>
+
+
+
       );
     }
   }
 
   const styles = StyleSheet.create({
     listView: {
-        backgroundColor: 'orange',
+        backgroundColor: 'white',
         flex: 1,
         paddingTop: 100,
     
