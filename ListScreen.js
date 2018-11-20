@@ -44,10 +44,11 @@ export default class ListScreen extends React.Component {
         <ScrollView style={styles.listView}>
 
           <Button first onPress={() => this.props.navigation.push('MapScreen')}
+          color='red'
           title='TouchMe' />
          
 
-          <Button  onPress={() => this.props.navigation.push('ListScreen')}
+          <Button  onPress={() => this.props.navigation.push('ListScreen')} disabled='true'
           title='Touch'
           />
 

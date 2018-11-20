@@ -198,12 +198,12 @@ const styles = StyleSheet.create({
     card: {
       padding: 10,
       elevation: 2,
-      backgroundColor: "#FFA500",
+      backgroundColor: "red",
       marginHorizontal: 10,
-    //   shadowColor: "#000",
-    //   shadowRadius: 5,
-    //   shadowOpacity: 0.3,
-    //   shadowOffset: { x: 2, y: -2 },
+      shadowColor: "#000",
+      shadowRadius: 5,
+      shadowOpacity: 0.3,
+      shadowOffset: { x: 2, y: -2 },
       height: CARD_HEIGHT,
       width: CARD_WIDTH,
       overflow: "hidden",
@@ -231,7 +231,7 @@ const styles = StyleSheet.create({
       width: 10,
       height: 10,
       borderRadius: 4,
-      backgroundColor: "rgba(148,0,211,1)",
+      backgroundColor: "red",
     },
 
   });
