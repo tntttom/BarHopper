@@ -10,6 +10,7 @@ import {
     Dimensions,
     TouchableOpacity,
     Alert,
+    Button,
 } from "react-native";
 import MapView from "react-native-maps";
 
@@ -121,6 +122,7 @@ export default class MapScreen extends React.Component {
       
         return (
             <View style={styles.container}>
+
             <MapView
                 ref={map => this.map = map}
                 initialRegion={this.state.region}
@@ -176,6 +178,12 @@ export default class MapScreen extends React.Component {
                     </TouchableOpacity>
                 ))}
             </Animated.ScrollView>
+
+
+            <Button onPress={() => this.props.navigation.push('ListScreen')}
+              color='red'
+              title='List'
+            />
             </View>
         );
     }
@@ -200,10 +208,10 @@ const styles = StyleSheet.create({
       elevation: 2,
       backgroundColor: "red",
       marginHorizontal: 10,
-      shadowColor: "#000",
-      shadowRadius: 5,
-      shadowOpacity: 0.3,
-      shadowOffset: { x: 2, y: -2 },
+      // shadowColor: "#000",
+      // shadowRadius: 5,
+      // shadowOpacity: 0.3,
+      // shadowOffset: { x: 2, y: -2 },
       height: CARD_HEIGHT,
       width: CARD_WIDTH,
       overflow: "hidden",

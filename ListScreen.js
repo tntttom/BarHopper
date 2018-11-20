@@ -36,21 +36,22 @@ export default class ListScreen extends React.Component {
 
     render () {
       return (
-
-             
-      
-      
-  
-        <ScrollView style={styles.listView}>
-
-          <Button first onPress={() => this.props.navigation.push('MapScreen')}
-          color='red'
-          title='TouchMe' />
+        <View style ={{marginTop: 50, flex: 1}}>
+          <View style={{flex:0.12, flexDirection: "row", justifyContent: "flex-end"}}>
+            <Button first onPress={() => this.props.navigation.push('MapScreen')}
+              color='red'
+               title='TouchMe' />
          
 
-          <Button  onPress={() => this.props.navigation.push('ListScreen')} disabled='true'
-          title='Touch'
-          />
+           <Button  onPress={() => this.props.navigation.push('ListScreen')} disabled
+             title='Touch'
+            />
+          </View>
+          
+
+            <ScrollView style={styles.listView}>
+
+        
 
           {this.state.markers.map((marker, index) => (
               <TouchableOpacity onPress={() => this.props.navigation.push('InfoScreen')}>
@@ -63,6 +64,13 @@ export default class ListScreen extends React.Component {
   
         </ScrollView>
 
+        </View>
+             
+      
+      
+  
+      
+
 
 
       );
@@ -73,7 +81,7 @@ export default class ListScreen extends React.Component {
     listView: {
         backgroundColor: 'white',
         flex: 1,
-        paddingTop: 100,
+        paddingTop: 10,
     
       },
 
