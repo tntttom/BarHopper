@@ -12,7 +12,7 @@ import {
     Alert,
     Button,
 } from "react-native";
-import MapView from "react-native-maps";
+import MapView,  {PROVIDER_GOOGLE} from "react-native-maps";
 
 const barImages = [
     //images of bars here
@@ -124,6 +124,7 @@ export default class MapScreen extends React.Component {
             <View style={styles.container}>
 
             <MapView
+                provider={PROVIDER_GOOGLE}
                 ref={map => this.map = map}
                 initialRegion={this.state.region}
                 style={styles.container}
