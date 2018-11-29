@@ -1,6 +1,9 @@
 import { createStackNavigator } from 'react-navigation';
 import React, { Component } from "react";
 import { Text } from 'react-native';
+
+//app screens
+import Login from './Login';
 import MapScreen from './MapScreen';
 import Home from './Home';
 import ListScreen from './ListScreen';
@@ -8,6 +11,12 @@ import BarInformationScreen from './BarInformationScreen';
 
 //Everytime a new screen is added, import it here 
 const AppNavigator = createStackNavigator({
+        Login: {
+            screen: Login,
+            navigationOptions: {
+                header: false,
+            }
+        },
         Home: { 
             screen: Home,
             navigationOptions: ({ navigation }) => ({ header: null, })
@@ -43,7 +52,7 @@ const AppNavigator = createStackNavigator({
     },
 
     {
-        initialRouteName:'Home',
+        initialRouteName:'Login',
     }
 );
 
