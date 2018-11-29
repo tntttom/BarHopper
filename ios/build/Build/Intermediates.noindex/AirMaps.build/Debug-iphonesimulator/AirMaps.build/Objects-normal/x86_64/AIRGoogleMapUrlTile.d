@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native-maps/lib/ios/AirGoogleMaps/AIRGoogleMapUrlTile.m
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-maps/lib/ios/AirGoogleMaps/AIRGoogleMapUrlTile.m

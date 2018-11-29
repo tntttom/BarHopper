@@ -1,33 +1,33 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.m \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCallout.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMap.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/Callout/SMCalloutView.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/RCTConvert+AirMap.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.m \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapMarker.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapCallout.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMap.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/Callout/SMCalloutView.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/RCTConvert+AirMap.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h

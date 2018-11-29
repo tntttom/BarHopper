@@ -6,7 +6,7 @@
 <string>Apple LLVM version 9.0.0 (clang-900.0.39.2)</string>
  <key>files</key>
  <array>
-  <string>/Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/Libraries/Network/RCTNetInfo.m</string>
+  <string>/Users/tylernguyen/bar hopper/BarHopper/node_modules/react-native/Libraries/Network/RCTNetInfo.m</string>
  </array>
  <key>diagnostics</key>
  <array>

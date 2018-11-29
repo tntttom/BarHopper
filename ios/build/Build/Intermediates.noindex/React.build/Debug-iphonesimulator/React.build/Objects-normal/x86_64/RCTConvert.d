@@ -1,16 +1,16 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTConvert.m \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/tylernguyen/barhopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTImageSource.h \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTParserUtils.h
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Base/RCTConvert.m \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Base/RCTImageSource.h \
+  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native/React/Base/RCTParserUtils.h
