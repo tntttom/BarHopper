@@ -7,4 +7,3 @@ import {name as appName} from './app.json';
 
 AppRegistry.registerComponent('BarHopper', () => App);
 
-export {default as Firebase} from "./Firebase";

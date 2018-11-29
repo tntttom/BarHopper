@@ -8,8 +8,20 @@
 
 import React, {Component} from 'react';
 
+import * as firebase from 'firebase';
 import AppNavigator from './AppNavigator';  
-import Firebase from './Firebase';
+
+// initialize Firebase
+/*const firebaseConfig = {
+  apiKey: "AIzaSyD5DIJen29jZ5a89FneKVtE8tXEUXvJS1Q",
+  authDomain: "barhopper-83e3a.firebaseapp.com",
+  databaseURL: "https://barhopper-83e3a.firebaseio.com",
+  projectId: "barhopper-83e3a",
+  storageBucket: "barhopper-83e3a.appspot.com",
+  messagingSenderId: "494148410560"
+};
+
+firebase.initializeApp(firebaseConfig);*/
 
 //Main Class
 export default class BarHopper extends React.Component {

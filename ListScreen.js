@@ -36,7 +36,7 @@ export default class ListScreen extends React.Component {
 
   const styles = StyleSheet.create({
     listView: {
-        backgroundColor: 'orange',
+        backgroundColor: 'white',
         flex: 1,
         paddingTop: 100,
     

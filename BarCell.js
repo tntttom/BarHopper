@@ -31,7 +31,7 @@ export default class BarCell extends React.Component {
 
     imageCellContainer: {
         width: 100,
-        backgroundColor: 'white',
+        backgroundColor: 'cyan',
         flex: 1,
         borderRadius: 50,
     },

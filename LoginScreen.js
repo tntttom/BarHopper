@@ -1,35 +1,38 @@
 import React, {Component} from "react";
-import {Text, View, Button, StyleSheet} from 'react-native';
-
+//import {Text, View, StyleSheet} from 'react-native';
+import {Text, View, StyleSheet ,Container, Content, Header, Form, Input, Button, Item, Label} from 'react-native';
 // will implement firebase
 
 export default class LoginScreen extends React.Component {
     render() {
         return (
-            <View style = {styles.container}>
-                <Text> Log In </Text>
-                <Button
-                    title = "Sign Up"
-                    /*
-                    onPress = {() this.props.navigation.push('')}
-                    -- will also add. should i keep everything on this screen or make a separate log in screen?
-                    */
-                />
-                <Button
-                    title = "Log in with Facebook"
-                    /*
-                    onPress = {() this.props.navigation.push('')}
-                    -- this part (once Firebase is implemented) will go to facebook log in --
-                    */
-                />
-                <Button
-                    title = "Log in with email"
-                    /*
-                    onPress = {() this.props.navigation.push('')}
-                    -- add account
-                    */
-                />
-            </View>        
+            <Container style ={styles.container}>
+                <Form>
+                    <Item>
+                        <Label>Email</Label>
+                            <Input
+                                autoCorrect = {false}
+                                autoCapitalization = "none"
+                            />
+                    </Item>
+
+                    <Item>
+                        <Label>Password</Label>
+                            <Input
+                                secureTextEntry = {true}
+                                autoCorrect = {false}
+                                autoCapitalization = "none"
+                            />
+                    </Item>
+
+                    <Button style={{marginTop: 10}}>
+                        full
+                        rounded
+                        success 
+                    </Button>
+                        <Text>Log In</Text>
+                </Form>
+            </Container>
             
         );
     }
@@ -39,9 +42,10 @@ const styles = StyleSheet.create(
     {
     container: {
         flex: 1,
-        backgroundColor: 'orange',
-        alignItems: 'center',
-        justifyContent: 'center'
+        backgroundColor: 'white',
+        //alignItems: 'center',
+        justifyContent: 'center',
+        padding: 10,
     }
 }
-)
+);
