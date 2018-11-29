@@ -6,11 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-<<<<<<< HEAD
-		Fvmj90WDbh2jxncBdtcPCpfOekQ=
-=======
-		ZIm40hhaF+Q97zGbdtRvkNcrZ3s=
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
+		JRFKk7WOO7PpVMBPlGF0e1K91IM=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -63,11 +59,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-<<<<<<< HEAD
 		IYoQxOjdScJAcfcxmCTv11fadgk=
-=======
-		bdRAzplqAxPRc5iJMY+H9jTL/RI=
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -79,7 +71,6 @@
 		</data>
 		<key>PlugIns/BarHopperTests.xctest.dSYM/Contents/Resources/DWARF/BarHopperTests</key>
 		<data>
-<<<<<<< HEAD
 		bdmacNsDwbLI5pzjbcFxF+kQ8VA=
 		</data>
 		<key>PlugIns/BarHopperTests.xctest/BarHopperTests</key>
@@ -92,22 +83,7 @@
 		</data>
 		<key>PlugIns/BarHopperTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		hVhakCAICAhQ2s3MLefyVEkoLWg=
-=======
-		ujYz7UTEYGkidL3rcbZwodG5nkU=
-		</data>
-		<key>PlugIns/BarHopperTests.xctest/BarHopperTests</key>
-		<data>
-		dtp0To3rA2Jo403YVq/qlsHYktM=
-		</data>
-		<key>PlugIns/BarHopperTests.xctest/Info.plist</key>
-		<data>
-		IGxR9+pnENNXk93W/mbbwblluBw=
-		</data>
-		<key>PlugIns/BarHopperTests.xctest/_CodeSignature/CodeResources</key>
-		<data>
-		F1zY8PSqBC5hK24o1TCzT/MmUGk=
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
+		OrET+oR0IqLwDDyfYOFKaz1ZNDA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -116,19 +92,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			Fvmj90WDbh2jxncBdtcPCpfOekQ=
+			JRFKk7WOO7PpVMBPlGF0e1K91IM=
 			</data>
 			<key>hash2</key>
 			<data>
-			H5Ot8ZdmRNBwJTxB+F/tatU/RFAuQK4YZ4zaBTTSnT0=
-=======
-			ZIm40hhaF+Q97zGbdtRvkNcrZ3s=
-			</data>
-			<key>hash2</key>
-			<data>
-			AG7lZZUpHHGt739wgnB+1JNKHH6CtENHyS57KWfzC+w=
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
+			JK8a9n5vWE4gVzgexaAvXFU3eRRQRvotuyOdtDtbzew=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -269,76 +237,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
 			bdmacNsDwbLI5pzjbcFxF+kQ8VA=
 			</data>
 			<key>hash2</key>
 			<data>
 			XOja3+zLFPJpJ/HTNToESsZmPuCsMPI2rYN90k6h8KQ=
-=======
-			ujYz7UTEYGkidL3rcbZwodG5nkU=
-			</data>
-			<key>hash2</key>
-			<data>
-			q4AafXa4Nixt6NDFwjcQm5lNC60bpaWbec+VWrr4tzs=
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
 			</data>
 		</dict>
 		<key>PlugIns/BarHopperTests.xctest/BarHopperTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
 			YDB4xFNcH4ZvMs0BfrsEAJaOLpQ=
 			</data>
 			<key>hash2</key>
 			<data>
 			a6LE/gIGURQ/1TzL14X+pqC/wgjNy37wa2pxdKz2DOs=
-=======
-			dtp0To3rA2Jo403YVq/qlsHYktM=
-			</data>
-			<key>hash2</key>
-			<data>
-			sSWBC2s4w4vwLDbfd5pPIrc7/Xq/QtjRHTX6IlNylhI=
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
 			</data>
 		</dict>
 		<key>PlugIns/BarHopperTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
 			qkjtrHmRmbJ6sEO3W+1vaKpvD7U=
 			</data>
 			<key>hash2</key>
 			<data>
 			F770AXBKy7SunlvP5siizjwRV1k7nTQiDfkpX6VinXY=
-=======
-			IGxR9+pnENNXk93W/mbbwblluBw=
-			</data>
-			<key>hash2</key>
-			<data>
-			YDWbnP2m9xV4XsHCJ3Uh78+Ib6abiLUls/QCWWhfdPU=
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
 			</data>
 		</dict>
 		<key>PlugIns/BarHopperTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-<<<<<<< HEAD
-			hVhakCAICAhQ2s3MLefyVEkoLWg=
+			OrET+oR0IqLwDDyfYOFKaz1ZNDA=
 			</data>
 			<key>hash2</key>
 			<data>
-			5pUs61QJulJSYXwEiFvmBpg2FCQWHPLkxp/FxqMyV84=
-=======
-			F1zY8PSqBC5hK24o1TCzT/MmUGk=
-			</data>
-			<key>hash2</key>
-			<data>
-			9WPDlZr2r0OumAPyYmcdSaOF57zcCN2qbRu3OM/LO2E=
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
+			BkDQwpggbLQ13iv5m2msFLJBNf9p1O2z5PLQ3BL1iA4=
 			</data>
 		</dict>
 	</dict>

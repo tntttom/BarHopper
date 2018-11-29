@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageStoreManager.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageViewManager.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTGIFImageDecoder.o
@@ -11,17 +10,3 @@
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTLocalAssetImageLoader.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageUtils.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageCache.o
-=======
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageStoreManager.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageViewManager.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTGIFImageDecoder.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageLoader.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageEditingManager.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTResizeMode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageView.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageBlurUtils.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageShadowView.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTLocalAssetImageLoader.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageUtils.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/Objects-normal/x86_64/RCTImageCache.o
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71

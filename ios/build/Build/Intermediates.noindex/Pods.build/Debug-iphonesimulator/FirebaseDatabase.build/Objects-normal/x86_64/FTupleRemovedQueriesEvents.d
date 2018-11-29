@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleRemovedQueriesEvents.m \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleRemovedQueriesEvents.h
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleRemovedQueriesEvents.m \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleRemovedQueriesEvents.h

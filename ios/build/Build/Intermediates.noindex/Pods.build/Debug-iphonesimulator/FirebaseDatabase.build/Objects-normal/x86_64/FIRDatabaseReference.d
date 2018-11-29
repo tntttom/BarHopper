@@ -1,36 +1,36 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FIRDatabaseReference.m \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseReference.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseQuery.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataSnapshot.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabase.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRMutableData.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRTransactionResult.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRServerValue.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FNextPushId.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FIRDatabaseQuery_Private.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepo.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FPersistentConnection.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Realtime/FConnection.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Realtime/FWebSocketConnection.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/SocketRocket/FSRWebSocket.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleUserCallback.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoManager.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Api/FIRDatabaseConfig.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FValidation.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FIRDatabaseReference_Private.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FStringUtilities.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FIRDatabaseConfig_Private.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Login/FAuthTokenProvider.h
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FIRDatabaseReference.m \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseReference.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseQuery.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataSnapshot.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabase.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRMutableData.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRTransactionResult.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRServerValue.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/Headers/Private/FirebaseCore/FIROptions.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FNextPushId.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FIRDatabaseQuery_Private.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepo.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FPersistentConnection.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Realtime/FConnection.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Realtime/FWebSocketConnection.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/SocketRocket/FSRWebSocket.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleUserCallback.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoManager.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Api/FIRDatabaseConfig.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FValidation.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FIRDatabaseReference_Private.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FStringUtilities.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FIRDatabaseConfig_Private.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Login/FAuthTokenProvider.h

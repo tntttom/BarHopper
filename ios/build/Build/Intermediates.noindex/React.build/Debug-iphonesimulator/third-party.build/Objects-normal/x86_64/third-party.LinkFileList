@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/Conv.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/StringBase.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/raw_logging.o
@@ -15,21 +14,3 @@
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/logging.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/json.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/BitsFunctexcept.o
-=======
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/Conv.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/StringBase.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/raw_logging.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/signalhandler.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/dynamic.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/utilities.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/MallocImpl.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/Bits.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/symbolize.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/vlog_is_on.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/Unicode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/demangle-7B942820D95A2665.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/Demangle-A25D07C72C2EFF53.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/logging.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/json.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/Objects-normal/x86_64/BitsFunctexcept.o
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71

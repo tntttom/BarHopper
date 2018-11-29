@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabase.m \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabase.h \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabase.m \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabase.h \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRDatabase.h \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRDatabaseReference.h \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRDatabaseQuery.h \
@@ -9,14 +9,14 @@ dependencies: \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRMutableData.h \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRTransactionResult.h \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FIRServerValue.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   ../../../ios/Pods/Headers/Public/Firebase/Firebase.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FIRAnalyticsConfiguration.h \
@@ -33,6 +33,6 @@ dependencies: \
   ../../../ios/Pods/Headers/Public/FirebaseDatabase/FirebaseDatabase.h \
   ../../../ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
   ../../../ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabaseReference.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/database/RNFirebaseDatabaseReference.h \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseEvents.h \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h

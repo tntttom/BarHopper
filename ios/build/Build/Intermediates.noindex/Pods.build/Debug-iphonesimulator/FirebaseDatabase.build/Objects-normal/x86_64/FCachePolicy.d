@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FCachePolicy.m \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FCachePolicy.h
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FCachePolicy.m \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FCachePolicy.h

@@ -3,14 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>LastAccessedDate</key>
-<<<<<<< HEAD
-	<date>2018-11-29T03:21:11Z</date>
+	<date>2018-11-29T20:59:47Z</date>
 	<key>WorkspacePath</key>
-	<string>/Users/christopherjose/Desktop/BarHopper-1/ios/BarHopper.xcodeproj</string>
-=======
-	<date>2018-11-29T04:51:23Z</date>
-	<key>WorkspacePath</key>
-	<string>/Users/tylernguyen/bar hopper/BarHopper/ios/BarHopper.xcworkspace</string>
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
+	<string>/Users/christopherjose/Desktop/BarHopper-1/ios/BarHopper.xcworkspace</string>
 </dict>
 </plist>

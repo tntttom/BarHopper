@@ -1,112 +1,112 @@
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/APLevelDB.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FAckUserWrite.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FArraySortedDictionary.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FAtomicNumber.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FAuthTokenProvider.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/fbase64.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FCacheNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FCachePolicy.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FCancelEvent.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FChange.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FChildChangeAccumulator.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FChildEventRegistration.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FChildrenNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FClock.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FCompoundHash.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FCompoundWrite.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FConnection.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FConstants.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FDataEvent.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FEmptyNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FEventEmitter.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FEventGenerator.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FEventRaiser.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FImmutableSortedDictionary.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FImmutableSortedSet.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FImmutableTree.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIndex.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIndexedFilter.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIndexedNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRDatabase.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRDatabaseConfig.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRDatabaseQuery.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRDatabaseReference.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRDataSnapshot.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FirebaseDatabase-dummy.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRMutableData.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRNoopAuthTokenProvider.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRRetryHelper.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRServerValue.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRTransactionResult.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FKeepSyncedEventRegistration.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FKeyIndex.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FLeafNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FLevelDBStorageEngine.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FLimitedFilter.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FListenComplete.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FListenProvider.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FLLRBEmptyNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FLLRBValueNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FMaxNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FMerge.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FNamedNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FNextPushId.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FOperationSource.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FOverwrite.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FParsedUrl.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPath.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPathIndex.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPendingPut.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPersistenceManager.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPersistentConnection.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPriorityIndex.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPruneForest.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FQueryParams.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FQuerySpec.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FRangedFilter.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FRangeMerge.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FRepo.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FRepoInfo.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FRepoManager.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FServerValues.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSnapshotHolder.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSnapshotUtilities.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSparseSnapshotTree.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSRWebSocket.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FStringUtilities.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSyncPoint.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSyncTree.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTrackedQuery.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTrackedQueryManager.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTransformedEnumerator.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTree.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTreeNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTreeSortedDictionary.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTreeSortedDictionaryEnumerator.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleBoolBlock.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleCallbackStatus.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleFirebase.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleNodePath.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleObjectNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleObjects.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleOnDisconnect.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTuplePathValue.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleRemovedQueriesEvents.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleSetIdPath.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleStringNode.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleTransaction.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleTSN.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleUserCallback.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FUtilities.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FValidation.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FValueEventRegistration.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FValueIndex.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FView.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FViewCache.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FViewProcessor.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FViewProcessorResult.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FWebSocketConnection.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FWriteRecord.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FWriteTree.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FWriteTreeRef.o
-/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/NSData+SRB64Additions.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/APLevelDB.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FAckUserWrite.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FArraySortedDictionary.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FAtomicNumber.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FAuthTokenProvider.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/fbase64.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FCacheNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FCachePolicy.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FCancelEvent.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FChange.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FChildChangeAccumulator.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FChildEventRegistration.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FChildrenNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FClock.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FCompoundHash.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FCompoundWrite.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FConnection.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FConstants.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FDataEvent.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FEmptyNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FEventEmitter.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FEventGenerator.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FEventRaiser.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FImmutableSortedDictionary.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FImmutableSortedSet.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FImmutableTree.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIndex.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIndexedFilter.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIndexedNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRDatabase.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRDatabaseConfig.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRDatabaseQuery.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRDatabaseReference.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRDataSnapshot.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FirebaseDatabase-dummy.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRMutableData.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRNoopAuthTokenProvider.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRRetryHelper.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRServerValue.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FIRTransactionResult.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FKeepSyncedEventRegistration.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FKeyIndex.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FLeafNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FLevelDBStorageEngine.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FLimitedFilter.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FListenComplete.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FListenProvider.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FLLRBEmptyNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FLLRBValueNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FMaxNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FMerge.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FNamedNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FNextPushId.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FOperationSource.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FOverwrite.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FParsedUrl.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPath.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPathIndex.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPendingPut.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPersistenceManager.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPersistentConnection.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPriorityIndex.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FPruneForest.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FQueryParams.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FQuerySpec.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FRangedFilter.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FRangeMerge.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FRepo.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FRepoInfo.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FRepoManager.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FServerValues.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSnapshotHolder.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSnapshotUtilities.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSparseSnapshotTree.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSRWebSocket.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FStringUtilities.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSyncPoint.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FSyncTree.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTrackedQuery.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTrackedQueryManager.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTransformedEnumerator.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTree.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTreeNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTreeSortedDictionary.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTreeSortedDictionaryEnumerator.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleBoolBlock.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleCallbackStatus.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleFirebase.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleNodePath.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleObjectNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleObjects.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleOnDisconnect.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTuplePathValue.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleRemovedQueriesEvents.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleSetIdPath.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleStringNode.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleTransaction.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleTSN.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FTupleUserCallback.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FUtilities.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FValidation.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FValueEventRegistration.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FValueIndex.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FView.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FViewCache.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FViewProcessor.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FViewProcessorResult.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FWebSocketConnection.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FWriteRecord.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FWriteTree.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/FWriteTreeRef.o
+/Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/Objects-normal/x86_64/NSData+SRB64Additions.o

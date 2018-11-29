@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/links/RNFirebaseLinks.m \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/links/RNFirebaseLinks.h
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/links/RNFirebaseLinks.m \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/links/RNFirebaseLinks.h

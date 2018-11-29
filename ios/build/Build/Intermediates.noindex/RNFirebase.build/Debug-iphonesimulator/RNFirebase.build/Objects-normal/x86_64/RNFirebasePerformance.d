@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/perf/RNFirebasePerformance.m \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/perf/RNFirebasePerformance.h
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/perf/RNFirebasePerformance.m \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/perf/RNFirebasePerformance.h

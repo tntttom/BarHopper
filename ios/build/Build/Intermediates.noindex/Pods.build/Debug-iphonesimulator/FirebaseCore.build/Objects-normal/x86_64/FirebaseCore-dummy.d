@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-dummy.m
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-dummy.m

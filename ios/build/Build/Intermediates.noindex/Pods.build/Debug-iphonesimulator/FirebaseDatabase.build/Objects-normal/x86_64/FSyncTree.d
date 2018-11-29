@@ -1,60 +1,60 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FSyncTree.m \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FSyncTree.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FListenProvider.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteTree.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FEventRegistration.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FChange.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseReference.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseQuery.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataSnapshot.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabase.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRMutableData.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRTransactionResult.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRServerValue.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FIndexedNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FNamedNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FImmutableTree.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FImmutableSortedDictionary.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTuplePathValue.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Operation/FOperation.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteTreeRef.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Operation/FOverwrite.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Operation/FOperationSource.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Operation/FMerge.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Operation/FAckUserWrite.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FView.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FSyncPoint.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FEmptyNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQuerySpec.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FSnapshotHolder.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FChildrenNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleRemovedQueriesEvents.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FAtomicNumber.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FEventRaiser.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FListenComplete.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FCacheNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FCompoundWrite.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteRecord.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPersistenceManager.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FStorageEngine.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FCachePolicy.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FKeepSyncedEventRegistration.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FServerValues.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FSparseSnapshotTree.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FClock.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FCompoundHash.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRangeMerge.h
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FSyncTree.m \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/Headers/Private/FirebaseCore/FIRLogger.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/Headers/Private/FirebaseCore/FIRLoggerLevel.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FSyncTree.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FListenProvider.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteTree.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FEventRegistration.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FChange.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseReference.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseQuery.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataSnapshot.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabase.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRMutableData.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRTransactionResult.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRServerValue.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FIndexedNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FNamedNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FImmutableTree.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FImmutableSortedDictionary.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTuplePathValue.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Operation/FOperation.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteTreeRef.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Operation/FOverwrite.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Operation/FOperationSource.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Operation/FMerge.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Operation/FAckUserWrite.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FView.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FSyncPoint.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FEmptyNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQuerySpec.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FSnapshotHolder.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FChildrenNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleRemovedQueriesEvents.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FAtomicNumber.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FEventRaiser.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FListenComplete.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FCacheNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FCompoundWrite.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteRecord.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPersistenceManager.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FStorageEngine.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Persistence/FCachePolicy.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FKeepSyncedEventRegistration.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FServerValues.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FSparseSnapshotTree.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FClock.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FCompoundHash.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRangeMerge.h

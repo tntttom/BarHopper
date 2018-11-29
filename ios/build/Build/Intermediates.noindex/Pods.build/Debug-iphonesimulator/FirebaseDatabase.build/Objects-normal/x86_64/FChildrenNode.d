@@ -1,20 +1,20 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FChildrenNode.m \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FChildrenNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FImmutableSortedDictionary.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FEmptyNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Constants/FConstants.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FStringUtilities.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FNamedNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FMaxNode.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FTransformedEnumerator.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FPriorityIndex.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FChildrenNode.m \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FChildrenNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FImmutableSortedDictionary.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FEmptyNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Constants/FConstants.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FStringUtilities.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FNamedNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FMaxNode.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FTransformedEnumerator.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FPriorityIndex.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h

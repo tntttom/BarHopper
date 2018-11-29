@@ -1,14 +1,14 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.m \
-  /Users/tylernguyen/bar\ hopper/BarHopper/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.m \
+  /Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native-firebase/ios/RNFirebase/RNFirebaseUtil.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
   ../../../ios/Pods/Headers/Public/Firebase/Firebase.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore.h \
   ../../../ios/Pods/Headers/Public/FirebaseCore/FIRAnalyticsConfiguration.h \

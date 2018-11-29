@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/tylernguyen/bar\ hopper/BarHopper/ios/Pods/FirebaseCore/Firebase/Core/FIRVersion.m
+  /Users/christopherjose/Desktop/BarHopper-1/ios/Pods/FirebaseCore/Firebase/Core/FIRVersion.m

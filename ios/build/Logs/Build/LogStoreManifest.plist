@@ -6,35 +6,6 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>35545839-B096-4255-90CF-3DCEE72FB65C</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>35545839-B096-4255-90CF-3DCEE72FB65C.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>BarHopper project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>BarHopper</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>565063400.37855399</real>
-			<key>timeStoppedRecording</key>
-			<real>565063404.97604704</real>
-			<key>title</key>
-			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>35545839-B096-4255-90CF-3DCEE72FB65C</string>
-		</dict>
 		<key>C767A471-4EF5-4372-B47F-62E377B79E0D</key>
 		<dict>
 			<key>className</key>

@@ -6,11 +6,7 @@
 <string>Apple LLVM version 10.0.0 (clang-1000.11.45.5)</string>
  <key>files</key>
  <array>
-<<<<<<< HEAD
   <string>/Users/christopherjose/Desktop/BarHopper-1/node_modules/react-native/Libraries/Network/RCTNetInfo.m</string>
-=======
-  <string>/Users/tylernguyen/bar hopper/BarHopper/node_modules/react-native/Libraries/Network/RCTNetInfo.m</string>
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
  </array>
  <key>diagnostics</key>
  <array>
