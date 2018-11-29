@@ -34,7 +34,15 @@ export default class Login extends React.Component {
                         rounded
                         success
                     >
-                        <Text>Login</Text>
+                        <Text style={{ color: 'white' }}>Login</Text>
+                    </Button>
+
+                    <Button style={{marginTop: 10}}
+                        full
+                        rounded
+                        primary
+                    >
+                        <Text style={{ color: 'white' }}>Signup</Text>
                     </Button>
                 </Form>
             </Container>
