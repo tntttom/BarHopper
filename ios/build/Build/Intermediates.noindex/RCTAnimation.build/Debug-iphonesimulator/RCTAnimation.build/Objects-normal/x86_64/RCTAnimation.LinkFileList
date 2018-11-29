@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTFrameAnimation.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSpringAnimation.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedNodesManager.o
@@ -18,3 +19,25 @@
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTTransformAnimatedNode.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDecayAnimation.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSubtractionAnimatedNode.o
+=======
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTFrameAnimation.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSpringAnimation.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedNodesManager.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTValueAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTModuloAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDiffClampAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTEventAnimation.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTStyleAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimationUtils.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTNativeAnimatedModule.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTMultiplicationAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTPropsAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTTrackingAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTInterpolationAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTAdditionAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDivisionAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTTransformAnimatedNode.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTDecayAnimation.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/Objects-normal/x86_64/RCTSubtractionAnimatedNode.o
+>>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71

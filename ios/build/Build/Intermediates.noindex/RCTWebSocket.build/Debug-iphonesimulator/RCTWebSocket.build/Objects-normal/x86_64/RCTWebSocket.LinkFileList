@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTSRWebSocket.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketModule.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTReconnectingWebSocket.o
 /Users/christopherjose/Desktop/BarHopper-1/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketExecutor.o
+=======
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTSRWebSocket.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketModule.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTReconnectingWebSocket.o
+/Users/tylernguyen/bar hopper/BarHopper/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/Objects-normal/x86_64/RCTWebSocketExecutor.o
+>>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
