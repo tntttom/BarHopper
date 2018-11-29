@@ -8,13 +8,8 @@
 
 import React, {Component} from 'react';
 
-<<<<<<< HEAD
 import * as firebase from 'firebase';
 import AppNavigator from './AppNavigator';  
-=======
-import AppNavigator from './screens/AppNavigator';  
-import firebase from 'react-native-firebase';
->>>>>>> beab7d4f1bd87301a304cdc90db4f79ee9386c71
 
 // initialize Firebase
 /*const firebaseConfig = {
