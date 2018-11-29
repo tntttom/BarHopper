@@ -9,7 +9,7 @@
 import React, {Component} from 'react';
 
 import AppNavigator from './screens/AppNavigator';  
-import firebase from 'firebase';
+import firebase from 'react-native-firebase';
 
 //Main Class
 export default class BarHopper extends React.Component {
