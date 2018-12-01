@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>C767A471-4EF5-4372-B47F-62E377B79E0D</key>
+		<key>ADC4B4BD-464D-4A00-87A2-8B7348296D0B</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C767A471-4EF5-4372-B47F-62E377B79E0D.xcactivitylog</string>
+			<string>ADC4B4BD-464D-4A00-87A2-8B7348296D0B.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -25,15 +25,15 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
+			<string>Building workspace BarHopper with scheme BarHopper and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>565154471.67140305</real>
+			<real>565218533.597597</real>
 			<key>timeStoppedRecording</key>
-			<real>565154485.55563104</real>
+			<real>565218539.32178199</real>
 			<key>title</key>
-			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
+			<string>Building workspace BarHopper with scheme BarHopper and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>C767A471-4EF5-4372-B47F-62E377B79E0D</string>
+			<string>ADC4B4BD-464D-4A00-87A2-8B7348296D0B</string>
 		</dict>
 	</dict>
 </dict>

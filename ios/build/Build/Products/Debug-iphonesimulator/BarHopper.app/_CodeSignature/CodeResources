@@ -71,11 +71,11 @@
 		</data>
 		<key>PlugIns/BarHopperTests.xctest.dSYM/Contents/Resources/DWARF/BarHopperTests</key>
 		<data>
-		bdmacNsDwbLI5pzjbcFxF+kQ8VA=
+		1sJ6P+xv4FA4fOUUfp1lQ+yeZV0=
 		</data>
 		<key>PlugIns/BarHopperTests.xctest/BarHopperTests</key>
 		<data>
-		YDB4xFNcH4ZvMs0BfrsEAJaOLpQ=
+		tDFuP2P8TKsSJye8NAleIvsq2lA=
 		</data>
 		<key>PlugIns/BarHopperTests.xctest/Info.plist</key>
 		<data>
@@ -83,7 +83,7 @@
 		</data>
 		<key>PlugIns/BarHopperTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		OrET+oR0IqLwDDyfYOFKaz1ZNDA=
+		hVhakCAICAhQ2s3MLefyVEkoLWg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -237,22 +237,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bdmacNsDwbLI5pzjbcFxF+kQ8VA=
+			1sJ6P+xv4FA4fOUUfp1lQ+yeZV0=
 			</data>
 			<key>hash2</key>
 			<data>
-			XOja3+zLFPJpJ/HTNToESsZmPuCsMPI2rYN90k6h8KQ=
+			osiSMKK8voQRw3E4ZORyKIwn5hh6kc/9Z7EmgeUKFks=
 			</data>
 		</dict>
 		<key>PlugIns/BarHopperTests.xctest/BarHopperTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YDB4xFNcH4ZvMs0BfrsEAJaOLpQ=
+			tDFuP2P8TKsSJye8NAleIvsq2lA=
 			</data>
 			<key>hash2</key>
 			<data>
-			a6LE/gIGURQ/1TzL14X+pqC/wgjNy37wa2pxdKz2DOs=
+			MhQ6SzvBKy7cqHLNe/C1v1ABW8OOm/FYTjG1E/AVNw4=
 			</data>
 		</dict>
 		<key>PlugIns/BarHopperTests.xctest/Info.plist</key>
@@ -270,11 +270,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OrET+oR0IqLwDDyfYOFKaz1ZNDA=
+			hVhakCAICAhQ2s3MLefyVEkoLWg=
 			</data>
 			<key>hash2</key>
 			<data>
-			BkDQwpggbLQ13iv5m2msFLJBNf9p1O2z5PLQ3BL1iA4=
+			5pUs61QJulJSYXwEiFvmBpg2FCQWHPLkxp/FxqMyV84=
 			</data>
 		</dict>
 	</dict>
