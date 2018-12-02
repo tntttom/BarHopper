@@ -8,6 +8,7 @@ target 'BarHopper' do
   # Pods for BarHopper
 	pod ‘Firebase/Core’, ‘~> 5.11.0’
 	pod ‘Firebase/Database’
+	pod ‘Firebase/Auth’
 
   target 'BarHopperTests' do
     inherit! :search_paths
