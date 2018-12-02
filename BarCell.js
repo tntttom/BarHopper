@@ -24,7 +24,7 @@ export default class BarCell extends React.Component {
         flex: 0.25,
         borderTopLeftRadius: 50,
         borderBottomLeftRadius: 50,
-        borderColor: 'red',
+        borderColor: '#2B9295',
         borderBottomWidth: 0.25,
 
     },

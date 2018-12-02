@@ -12,7 +12,7 @@ import {
     Alert,
     Button,
 } from "react-native";
-import MapView,  {PROVIDER_GOOGLE} from "react-native-maps";
+import MapView, { PROVIDER_GOOGLE } from 'react-native-maps';
 
 const barImages = [
     //images of bars here
@@ -22,7 +22,7 @@ const {width, height } = Dimensions.get("window");
 const CARD_HEIGHT = height / 4;
 const CARD_WIDTH = CARD_HEIGHT - 50;
 
-export default class MapScreen extends React.Component {
+export default class MapScreen extends Component {
   _onPressCard(){
     //Will eventually bring the user to a different page with displayed content
     Alert.alert('you tapped a bar!');

@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import { StyleSheet, Text, View, ScrollView, TouchableOpacity, Button, Segment, Container} from 'react-native';
 import BarCell from './BarCell';
 
-export default class ListScreen extends React.Component {
+export default class ListScreen extends Component {
 
   _onPressCell(){
     
@@ -63,7 +63,7 @@ export default class ListScreen extends React.Component {
                   justifyContent:'center',
                   width:50,
                   height:25,
-                  backgroundColor:'red',
+                  backgroundColor:'#2B9295',
                   borderRadius:1,
                   
                 }}
