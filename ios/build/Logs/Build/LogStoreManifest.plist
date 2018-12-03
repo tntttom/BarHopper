@@ -5,6 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>4D9431F0-4246-49AA-BE41-3E945A5C0C59</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4D9431F0-4246-49AA-BE41-3E945A5C0C59.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BarHopper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BarHopper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565494197.97133505</real>
+			<key>timeStoppedRecording</key>
+			<real>565494200.32887304</real>
+			<key>title</key>
+			<string>Building project BarHopper with scheme BarHopper and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4D9431F0-4246-49AA-BE41-3E945A5C0C59</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

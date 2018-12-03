@@ -10,9 +10,8 @@ import {
     Dimensions,
     TouchableOpacity,
     Alert,
-    Button,
 } from "react-native";
-import MapView, { PROVIDER_GOOGLE } from 'react-native-maps';
+import MapView from "react-native-maps";
 
 const barImages = [
     //images of bars here
@@ -22,7 +21,7 @@ const {width, height } = Dimensions.get("window");
 const CARD_HEIGHT = height / 4;
 const CARD_WIDTH = CARD_HEIGHT - 50;
 
-export default class MapScreen extends Component {
+export default class MapScreen extends React.Component {
   _onPressCard(){
     //Will eventually bring the user to a different page with displayed content
     Alert.alert('you tapped a bar!');
@@ -122,9 +121,7 @@ export default class MapScreen extends Component {
       
         return (
             <View style={styles.container}>
-
             <MapView
-                provider={PROVIDER_GOOGLE}
                 ref={map => this.map = map}
                 initialRegion={this.state.region}
                 style={styles.container}
@@ -179,12 +176,6 @@ export default class MapScreen extends Component {
                     </TouchableOpacity>
                 ))}
             </Animated.ScrollView>
-
-
-            <Button onPress={() => this.props.navigation.push('ListScreen')}
-              color='red'
-              title='List'
-            />
             </View>
         );
     }
@@ -207,12 +198,12 @@ const styles = StyleSheet.create({
     card: {
       padding: 10,
       elevation: 2,
-      backgroundColor: "red",
+      backgroundColor: "#FFA500",
       marginHorizontal: 10,
-      // shadowColor: "#000",
-      // shadowRadius: 5,
-      // shadowOpacity: 0.3,
-      // shadowOffset: { x: 2, y: -2 },
+    //   shadowColor: "#000",
+    //   shadowRadius: 5,
+    //   shadowOpacity: 0.3,
+    //   shadowOffset: { x: 2, y: -2 },
       height: CARD_HEIGHT,
       width: CARD_WIDTH,
       overflow: "hidden",
@@ -240,7 +231,7 @@ const styles = StyleSheet.create({
       width: 10,
       height: 10,
       borderRadius: 4,
-      backgroundColor: "red",
+      backgroundColor: "rgba(148,0,211,1)",
     },
 
   });
