@@ -4,6 +4,7 @@ import { Text } from 'react-native';
 
 //app screens
 import Login from './Login';
+import SignUp from './SignUp';
 import MapScreen from './MapScreen';
 import Home from './Home';
 import ListScreen from './ListScreen';
@@ -13,6 +14,12 @@ import BarInformationScreen from './BarInformationScreen';
 const AppNavigator = createStackNavigator({
         Login: {
             screen: Login,
+            navigationOptions: {
+                header: false,
+            }
+        },
+        SignUp: {
+            screen: SignUp,
             navigationOptions: {
                 header: false,
             }

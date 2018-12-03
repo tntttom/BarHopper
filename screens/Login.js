@@ -32,7 +32,7 @@ export default class Login extends React.Component {
 
             setTimeout(() => {
                 this.props.navigation.navigate("Home")
-            }, 1000);
+            }, 500);
         
           }catch(error){
             this.setState({
@@ -43,9 +43,16 @@ export default class Login extends React.Component {
 
     render(){
         return (
-            <Container>
+
+            <Container style= {styles.container}>
+                <View flex top>
+                    <Text style= {styles.title}>
+                         Bar Hopper
+                    </Text>
+                 </View>
                 <Form>
-                    <Item floatingLabel>
+                    <Item style = {{margin: 10}}
+                        floatingLabel>
                         <Label>Email</Label>
                         <Input 
                             autoCorrect={false} 
@@ -54,7 +61,8 @@ export default class Login extends React.Component {
                         />
                     </Item>
 
-                    <Item floatingLabel>
+                    <Item style= {{margin: 10}}
+                        floatingLabel>
                         <Label>Password</Label>
                         <Input 
                             secureTextEntry={true}
@@ -64,7 +72,7 @@ export default class Login extends React.Component {
                         />
                     </Item>
 
-                    <Button style={{marginTop: 10}}
+                    <Button style={styles.customButton}
                         full
                         rounded
                         success
@@ -73,7 +81,7 @@ export default class Login extends React.Component {
                         <Text style={{ color: 'white' }}>Login</Text>
                     </Button>
 
-                    <Button style={{marginTop: 10}}
+                    <Button style={styles.customButton}
                         full
                         rounded
                         primary
@@ -82,7 +90,7 @@ export default class Login extends React.Component {
                         <Text style={{ color: 'white' }}>Sign Up</Text>
                     </Button>
                     <View>
-                        <Text>{this.state.response}</Text>
+                        <Text style= {styles.response}>{this.state.response}</Text>
                     </View>
                 </Form>
             </Container>
@@ -91,10 +99,29 @@ export default class Login extends React.Component {
 }
 
 const styles = StyleSheet.create({
+    customButton: {
+        marginTop: 10,
+        backgroundColor: "#4DAFB2",
+        margin: 10
+    },
+    title: {
+        paddingBottom: 16,
+        textAlign: "center",
+        color: "#000",
+        fontSize: 35,
+        fontWeight: "bold",
+        opacity: 0.8,
+    },
     container: {
         flex: 1,
         backgroundColor: '#fff',
-        alignItems: 'center',
+      //  alignItems: 'center',
         justifyContent: 'center',
+
+    },
+    response: {
+        textAlign: "center",
+        paddingTop: 0,
+        padding: 50
     }
 });

@@ -8,7 +8,7 @@ import {
 import { Container, Content, Header, Form, Input, Item, Button, Label } from 'native-base';
 import * as firebase from "react-native-firebase"
 
-export default class Login extends React.Component {
+export default class SignUp extends React.Component {
  
     constructor(props) {
         super(props)
@@ -72,15 +72,7 @@ export default class Login extends React.Component {
                     >
                         <Text style={{ color: 'white' }}>Sign Up</Text>
                     </Button>
-
-                    <Button style={{marginTop: 10}}
-                        full
-                        rounded
-                        primary
-                        onPress={() => this.props.navigation.push('Login')}
-                    >
-                        <Text style={{ color: 'white' }}>Back</Text>
-                    </Button>
+                    
                     <View>
                         <Text>{this.state.response}</Text>
                     </View>
