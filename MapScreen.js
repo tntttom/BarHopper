@@ -10,8 +10,9 @@ import {
     Dimensions,
     TouchableOpacity,
     Alert,
+    Button,
 } from "react-native";
-import MapView from "react-native-maps";
+import MapView, { PROVIDER_GOOGLE } from 'react-native-maps';
 
 const barImages = [
     //images of bars here
@@ -20,8 +21,12 @@ const {width, height } = Dimensions.get("window");
 
 const CARD_HEIGHT = height / 4;
 const CARD_WIDTH = CARD_HEIGHT - 50;
+const LATITUDE = 41.880060;
+const LONGITUDE = -87.626420;
+const LATITUDE_DELTA = 0.04864195044303443;
+const LONGITUDE_DELTA = 0.040142817690068;
 
-export default class MapScreen extends React.Component {
+export default class MapScreen extends Component {
   _onPressCard(){
     //Will eventually bring the user to a different page with displayed content
     Alert.alert('you tapped a bar!');
@@ -56,17 +61,25 @@ export default class MapScreen extends React.Component {
             image: barImages[0],
           },
         ],
-        region: {
-          latitude: 41.880060,
-          longitude: -87.626420,
-          latitudeDelta: 0.04864195044303443,
-          longitudeDelta: 0.040142817690068,
-        },
+        latitude: LATITUDE,
+        longitude: LONGITUDE,
+        latitudeDelta: LATITUDE_DELTA,
+        longitudeDelta: LONGITUDE_DELTA,
+        
       };
 
       componentWillMount() {
         this.index = 0;
         this.animation = new Animated.Value(0);
+
+        navigator.geolocation.getCurrentPosition(
+          position => {},
+          error => alert(error.message),
+          {
+            enableHighAccuracy: true,timeout: 20000, maximumAge: 1000
+          }
+        );
+
     }
      
     componentDidMount() {
@@ -89,15 +102,43 @@ export default class MapScreen extends React.Component {
               this.map.animateToRegion(
                 {
                   ...coordinate,
-                  latitudeDelta: this.state.region.latitudeDelta,
-                  longitudeDelta: this.state.region.longitudeDelta,
+                  latitudeDelta: this.state.latitudeDelta,
+                  longitudeDelta: this.state.longitudeDelta,
                 },
                 350
               );
             }
           }, 10);
         });
+
+        //UPDATE LOCATION
+        this.watchID = navigator.geolocation.watchPosition(
+          position => {
+            const {latitude, longitude} = position.coords;
+
+            this.setState({
+              latitude,
+              longitude
+            });
+          },
+          error => console.log(error),
+          {enableHighAccuracy:true, timeout: 20000, maximumAge: 1000}
+        );
+
       }
+
+      componentWillUnmount() {
+        navigator.geolocation.clearWatch(this.watchID);
+      }
+
+      getMapRegion = () => ({
+        latitude: this.state.latitude,
+        longitude: this.state.longitude,
+        latitudeDelta: LATITUDE_DELTA,
+        longitudeDelta: LONGITUDE_DELTA
+      });
+
+
 
     render() {
         const changeMapRegion = this.state.markers.map((marker, index) => {
@@ -121,10 +162,14 @@ export default class MapScreen extends React.Component {
       
         return (
             <View style={styles.container}>
+
             <MapView
+                provider={PROVIDER_GOOGLE}
                 ref={map => this.map = map}
-                initialRegion={this.state.region}
+                region={this.getMapRegion()}
                 style={styles.container}
+                showsUserLocation
+                followsUserLocation
                 >
                 {this.state.markers.map((marker, index) => {
                     return (
@@ -176,6 +221,12 @@ export default class MapScreen extends React.Component {
                     </TouchableOpacity>
                 ))}
             </Animated.ScrollView>
+
+
+            <Button onPress={() => this.props.navigation.push('ListScreen')}
+              color='red'
+              title='List'
+            />
             </View>
         );
     }
@@ -198,12 +249,12 @@ const styles = StyleSheet.create({
     card: {
       padding: 10,
       elevation: 2,
-      backgroundColor: "#FFA500",
+      backgroundColor: "red",
       marginHorizontal: 10,
-    //   shadowColor: "#000",
-    //   shadowRadius: 5,
-    //   shadowOpacity: 0.3,
-    //   shadowOffset: { x: 2, y: -2 },
+      // shadowColor: "#000",
+      // shadowRadius: 5,
+      // shadowOpacity: 0.3,
+      // shadowOffset: { x: 2, y: -2 },
       height: CARD_HEIGHT,
       width: CARD_WIDTH,
       overflow: "hidden",
@@ -231,7 +282,7 @@ const styles = StyleSheet.create({
       width: 10,
       height: 10,
       borderRadius: 4,
-      backgroundColor: "rgba(148,0,211,1)",
+      backgroundColor: "red",
     },
 
   });

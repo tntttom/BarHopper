@@ -6,11 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		A423EMxJZ2Iji1hApkezvCBa5RA=
-		</data>
-		<key>Frameworks/libXCTestBundleInject.dylib</key>
-		<data>
-		xKX69bDGMJa2TcU/BC9ypZ06rsI=
+		IISQMzc7ULo8nneMorsuNz8OEc0=
 		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
 		<data>
@@ -737,22 +733,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A423EMxJZ2Iji1hApkezvCBa5RA=
+			IISQMzc7ULo8nneMorsuNz8OEc0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xwn6N1NL5A+LNVyWhtT303vgiKlbtqh/6y+taJUkZfA=
-			</data>
-		</dict>
-		<key>Frameworks/libXCTestBundleInject.dylib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xKX69bDGMJa2TcU/BC9ypZ06rsI=
-			</data>
-			<key>hash2</key>
-			<data>
-			jJ/zKe1SwWk9KkZ4MXV01NPW4QiHpU1aZhpfTDknkp0=
+			a1XfREF/IPM7Qss3/QGbzQo/oHAJF+o324TuLAisut0=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
