@@ -34,7 +34,7 @@ export default class Home extends React.Component {
 
         <Button
           title = "Sign Up / Log In"
-          onPress = {() => this.props.navigation.push('LoginScreen')}
+          onPress={() => this.props.navigation.push('LoginScreen')}
         />
         
       </View>

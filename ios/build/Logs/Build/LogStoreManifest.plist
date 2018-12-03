@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>ADC4B4BD-464D-4A00-87A2-8B7348296D0B</key>
+		<key>8EB9EC95-6C93-46CA-84AD-820950CAA463</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>ADC4B4BD-464D-4A00-87A2-8B7348296D0B.xcactivitylog</string>
+			<string>8EB9EC95-6C93-46CA-84AD-820950CAA463.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +27,42 @@
 			<key>signature</key>
 			<string>Building workspace BarHopper with scheme BarHopper and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>565218533.597597</real>
+			<real>565335838.77271605</real>
 			<key>timeStoppedRecording</key>
-			<real>565218539.32178199</real>
+			<real>565335840.37777603</real>
 			<key>title</key>
 			<string>Building workspace BarHopper with scheme BarHopper and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>ADC4B4BD-464D-4A00-87A2-8B7348296D0B</string>
+			<string>8EB9EC95-6C93-46CA-84AD-820950CAA463</string>
+		</dict>
+		<key>ADE1E1F9-E67C-4AB5-B600-1CD822938403</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADE1E1F9-E67C-4AB5-B600-1CD822938403.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BarHopper project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BarHopper</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace BarHopper with scheme BarHopper and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565334532.04527903</real>
+			<key>timeStoppedRecording</key>
+			<real>565334537.83036494</real>
+			<key>title</key>
+			<string>Building workspace BarHopper with scheme BarHopper and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>ADE1E1F9-E67C-4AB5-B600-1CD822938403</string>
 		</dict>
 	</dict>
 </dict>

@@ -6,23 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		JRFKk7WOO7PpVMBPlGF0e1K91IM=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
-		<data>
-		ooz0sIAaLKBGoFU5iKq8DR11NmY=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
-		<data>
-		R/knOPjsjrJNiVtUa2S4kYE749M=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
-		<data>
-		qcVgsOCxIzxwcNXLWXgRrNjnuT8=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
-		<data>
-		K7jOt4uC+lqy/StneXlQVk21axY=
+		KOsFzbjv0wc3qfWKqjGeLJHAsWw=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
@@ -71,11 +55,11 @@
 		</data>
 		<key>PlugIns/BarHopperTests.xctest.dSYM/Contents/Resources/DWARF/BarHopperTests</key>
 		<data>
-		1sJ6P+xv4FA4fOUUfp1lQ+yeZV0=
+		coWcRpPmlzjW076+MFdrZOIzwGA=
 		</data>
 		<key>PlugIns/BarHopperTests.xctest/BarHopperTests</key>
 		<data>
-		tDFuP2P8TKsSJye8NAleIvsq2lA=
+		QcAYvASE9O3bSTJ6l1JyRexNpVQ=
 		</data>
 		<key>PlugIns/BarHopperTests.xctest/Info.plist</key>
 		<data>
@@ -92,55 +76,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JRFKk7WOO7PpVMBPlGF0e1K91IM=
+			KOsFzbjv0wc3qfWKqjGeLJHAsWw=
 			</data>
 			<key>hash2</key>
 			<data>
-			JK8a9n5vWE4gVzgexaAvXFU3eRRQRvotuyOdtDtbzew=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ooz0sIAaLKBGoFU5iKq8DR11NmY=
-			</data>
-			<key>hash2</key>
-			<data>
-			QTZkTlnemyTcrFMb3v3GdQcfmpRodaOjtevd5TjxiiY=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			R/knOPjsjrJNiVtUa2S4kYE749M=
-			</data>
-			<key>hash2</key>
-			<data>
-			wLDjbULmM78l0rN5jh2/yPax234qVZL29OQBQmdYmOU=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qcVgsOCxIzxwcNXLWXgRrNjnuT8=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZARlo4LD/z4nYhaCEocjb6nPjuZDCrLsQzn0n4GVr3s=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			K7jOt4uC+lqy/StneXlQVk21axY=
-			</data>
-			<key>hash2</key>
-			<data>
-			VzM0aDQjkmLy+IyPasdn9DeGkOOTuNMbKUMz+3efAaU=
+			8QD0l2sbTXCrHhfIFC5KI8wtYzaWw9A+YhbmddCdgzo=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
@@ -237,22 +177,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1sJ6P+xv4FA4fOUUfp1lQ+yeZV0=
+			coWcRpPmlzjW076+MFdrZOIzwGA=
 			</data>
 			<key>hash2</key>
 			<data>
-			osiSMKK8voQRw3E4ZORyKIwn5hh6kc/9Z7EmgeUKFks=
+			hAvSEdRe2UuC8lFuBB29mUPU8QwoQZHc3Qr5AVLaMlg=
 			</data>
 		</dict>
 		<key>PlugIns/BarHopperTests.xctest/BarHopperTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tDFuP2P8TKsSJye8NAleIvsq2lA=
+			QcAYvASE9O3bSTJ6l1JyRexNpVQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			MhQ6SzvBKy7cqHLNe/C1v1ABW8OOm/FYTjG1E/AVNw4=
+			pvfBENPQiJAuMLiU6Rvcz6FlvJmjJkL3ku9n2doCfsU=
 			</data>
 		</dict>
 		<key>PlugIns/BarHopperTests.xctest/Info.plist</key>
