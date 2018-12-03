@@ -19,29 +19,7 @@ export default class Login extends React.Component {
           response: ""
         })
 
-        this.signUpUser = this.signUpUser.bind(this);
         this.loginUser = this.loginUser.bind(this);
-      }
-    
-      async signUpUser(){
-          try{
-              await firebase.auth().createUserWithEmailAndPassword(this.state.email, this.state.password);
-
-              this.setState({
-                response: "account created"
-              });
-
-              setTimeout(() => {
-                  this.props.navigator.push({
-                      name: "Home"
-                  })
-              }, 1500);
-
-          } catch(error){
-              this.setState({
-                  response: error.toString()
-              })
-          }
       }
 
       async loginUser(){
@@ -53,10 +31,8 @@ export default class Login extends React.Component {
             });
 
             setTimeout(() => {
-                this.props.navigator.push({
-                    name: "Home"
-                })
-            }, 1500);
+                this.props.navigation.navigate("Home")
+            }, 1000);
         
           }catch(error){
             this.setState({
@@ -101,7 +77,7 @@ export default class Login extends React.Component {
                         full
                         rounded
                         primary
-                        onPress={this.signUpUser}
+                        onPress={() => this.props.navigation.push('SignUp')}
                     >
                         <Text style={{ color: 'white' }}>Sign Up</Text>
                     </Button>
