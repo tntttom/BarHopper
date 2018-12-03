@@ -10,14 +10,27 @@ import React, {Component} from 'react';
 
 import AppNavigator from './AppNavigator';  
 
-//Main Class
-export default class BarHopper extends React.Component {
+import { createStackNavigator, createAppContainer } from 'react-navigation';
+
+// import CardOutput from './components/Card';
+// import { initApi } from './services/api';
+
+const AppContainer = createAppContainer(AppNavigator);
+
+export default class App extends Component {
   render() {
-   return (
-      //<RootStack />
-      <AppNavigator/>
-   );
- }
+    return <AppContainer />;
+  }
 }
+
+// //Main Class
+// export default class BarHopper extends Component {
+//   render() {
+//    return (
+//       //<RootStack />
+//       <AppNavigator />
+//    );
+//  }
+// }
 
 

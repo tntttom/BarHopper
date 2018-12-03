@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+  /Users/tommynguyen/Desktop/BarHopper/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
+  /Users/tommynguyen/Desktop/BarHopper/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

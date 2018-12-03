@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTCxxConvert.m \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTCxxConvert.h
+  /Users/tommynguyen/Desktop/BarHopper/node_modules/react-native/React/Base/RCTCxxConvert.m \
+  /Users/tommynguyen/Desktop/BarHopper/node_modules/react-native/React/Base/RCTCxxConvert.h

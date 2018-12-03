@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTManagedPointer.mm \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/React/Base/RCTManagedPointer.h
+  /Users/tommynguyen/Desktop/BarHopper/node_modules/react-native/React/Base/RCTManagedPointer.mm \
+  /Users/tommynguyen/Desktop/BarHopper/node_modules/react-native/React/Base/RCTManagedPointer.h

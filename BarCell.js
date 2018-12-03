@@ -20,18 +20,18 @@ export default class BarCell extends React.Component {
   const styles = StyleSheet.create({
     cellContainer: {
         height: 100,
-        backgroundColor: 'purple',
+        backgroundColor: 'white',
         flex: 0.25,
         borderTopLeftRadius: 50,
         borderBottomLeftRadius: 50,
-        borderColor: 'gray',
-        borderBottomWidth: 1,
+        borderColor: '#2B9295',
+        borderBottomWidth: 0.25,
 
     },
 
     imageCellContainer: {
         width: 100,
-        backgroundColor: 'white',
+        backgroundColor: 'gray',
         flex: 1,
         borderRadius: 50,
     },

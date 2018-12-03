@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/tommynguyen/Desktop/BarHopper/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/tommynguyen/Desktop/BarHopper/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

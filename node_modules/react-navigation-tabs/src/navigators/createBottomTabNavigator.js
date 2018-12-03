@@ -2,8 +2,11 @@
 
 import * as React from 'react';
 import { View, StyleSheet } from 'react-native';
-import { ScreenContainer } from 'react-native-screens';
 import { polyfill } from 'react-lifecycles-compat';
+
+// eslint-disable-next-line import/no-unresolved
+import { ScreenContainer } from 'react-native-screens';
+
 import createTabNavigator, {
   type InjectedProps,
 } from '../utils/createTabNavigator';
@@ -52,6 +55,7 @@ class TabNavigationView extends React.PureComponent<Props, State> {
       getTestID,
       renderIcon,
       onTabPress,
+      onTabLongPress,
     } = this.props;
 
     const { descriptors } = this.props;
@@ -71,6 +75,7 @@ class TabNavigationView extends React.PureComponent<Props, State> {
         navigation={navigation}
         screenProps={screenProps}
         onTabPress={onTabPress}
+        onTabLongPress={onTabLongPress}
         getLabelText={getLabelText}
         getButtonComponent={getButtonComponent}
         getAccessibilityLabel={getAccessibilityLabel}

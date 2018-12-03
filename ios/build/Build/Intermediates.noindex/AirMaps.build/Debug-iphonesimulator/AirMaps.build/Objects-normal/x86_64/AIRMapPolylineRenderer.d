@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineRenderer.m \
-  /Users/tylernguyen/barhopper/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineRenderer.h
+  /Users/tommynguyen/Desktop/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineRenderer.m \
+  /Users/tommynguyen/Desktop/BarHopper/node_modules/react-native-maps/lib/ios/AirMaps/AIRMapPolylineRenderer.h

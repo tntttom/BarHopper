@@ -1,17 +1,18 @@
-import { createStackNavigator } from 'react-navigation';
 import MapScreen from './MapScreen';
-import Home from './Home';
+import HomeScreen from './Home';
 import ListScreen from './ListScreen';
+import { createStackNavigator } from 'react-navigation';
 
-const AppNavigator = createStackNavigator({
-    Home: { screen: Home },
-    MapScreen: { screen: MapScreen },
-    ListScreen: { screen: ListScreen},
-    },
-    {
-        headerMode: 'none',
-        initialRouteName:'Home',
-    }
+const AppNavigator = createStackNavigator(
+	{
+    Home: HomeScreen,
+    MapScreen: MapScreen,
+    ListScreen: ListScreen,
+  },
+  {
+    headerMode: 'none',
+    initialRouteName:'Home',
+  }
 );
 
 export default AppNavigator;

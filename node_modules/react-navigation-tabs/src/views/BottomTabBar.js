@@ -8,7 +8,7 @@ import {
   View,
   Platform,
 } from 'react-native';
-import { SafeAreaView } from 'react-navigation';
+import { SafeAreaView } from '@react-navigation/native';
 
 import CrossFadeIcon from './CrossFadeIcon';
 import withDimensions from '../utils/withDimensions';
@@ -32,6 +32,7 @@ type Props = TabBarOptions & {
   descriptors: any,
   jumpTo: any,
   onTabPress: any,
+  onTabLongPress: any,
   getAccessibilityLabel: (props: { route: any }) => string,
   getButtonComponent: ({ route: any }) => any,
   getLabelText: ({ route: any }) => any,
@@ -50,12 +51,20 @@ const DEFAULT_MAX_TAB_ITEM_WIDTH = 125;
 
 class TouchableWithoutFeedbackWrapper extends React.Component<*> {
   render() {
-    const { onPress, testID, accessibilityLabel, ...props } = this.props;
+    const {
+      onPress,
+      onLongPress,
+      testID,
+      accessibilityLabel,
+      ...props
+    } = this.props;
 
     return (
       <TouchableWithoutFeedback
         onPress={onPress}
+        onLongPress={onLongPress}
         testID={testID}
+        hitSlop={{ left: 15, right: 15, top: 5, bottom: 5 }}
         accessibilityLabel={accessibilityLabel}
       >
         <View {...props} />
@@ -66,9 +75,9 @@ class TouchableWithoutFeedbackWrapper extends React.Component<*> {
 
 class TabBarBottom extends React.Component<Props> {
   static defaultProps = {
-    activeTintColor: '#3478f6', // Default active tint color in iOS 10
+    activeTintColor: '#007AFF',
     activeBackgroundColor: 'transparent',
-    inactiveTintColor: '#929292', // Default inactive tint color in iOS 10
+    inactiveTintColor: '#8E8E93',
     inactiveBackgroundColor: 'transparent',
     showLabel: true,
     showIcon: true,
@@ -190,6 +199,7 @@ class TabBarBottom extends React.Component<Props> {
       activeBackgroundColor,
       inactiveBackgroundColor,
       onTabPress,
+      onTabLongPress,
       safeAreaInset,
       style,
       tabStyle,
@@ -227,6 +237,7 @@ class TabBarBottom extends React.Component<Props> {
             <ButtonComponent
               key={route.key}
               onPress={() => onTabPress({ route })}
+              onLongPress={() => onTabLongPress({ route })}
               testID={testID}
               accessibilityLabel={accessibilityLabel}
               style={[

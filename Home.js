@@ -9,11 +9,13 @@ export default class Home extends React.Component {
         <Text>Home Screen</Text>
         <Button 
           title="Go To Map"
+          color='red'
           onPress={() => this.props.navigation.push('MapScreen')}
           />
         
         <Button
           title="Go To List"
+          color='red'
           onPress={() => this.props.navigation.push('ListScreen')}
         />
       </View>
@@ -24,7 +26,7 @@ export default class Home extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'orange',
+    backgroundColor: 'white',
     alignItems: 'center',
     justifyContent: 'center',
   },
