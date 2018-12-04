@@ -3,10 +3,14 @@ import {
     StyleSheet,
     Text,
     View,
+    TextInput,
+    TouchableOpacity,
 } from 'react-native';
 
 import { Container, Content, Header, Form, Input, Item, Button, Label } from 'native-base';
 import * as firebase from "react-native-firebase"
+const rootRef = firebase.database().ref();
+const nameRef = rootRef.child("name");
 
 export default class SignUp extends React.Component {
  
@@ -14,6 +18,7 @@ export default class SignUp extends React.Component {
         super(props)
     
         this.state = ({
+          name: "",
           email: "",
           password: "",
           response: ""
@@ -24,8 +29,12 @@ export default class SignUp extends React.Component {
     
       async signUpUser(){
           try{
-              await firebase.auth().createUserWithEmailAndPassword(this.state.email, this.state.password);
-
+              await firebase.auth().createUserWithEmailAndPassword(this.state.email, this.state.password);  
+              firebase.database().ref("users").set(
+                  {
+                      name: this.state.name
+                  }
+              )
               this.setState({
                 response: "account created"
               });
@@ -45,6 +54,15 @@ export default class SignUp extends React.Component {
         return (
             <Container>
                 <Form>
+                    <Item floatingLabel>
+                        <Label>Name</Label>
+                        <Input 
+                            autoCorrect={false} 
+                            autoCapitalize="none"
+                            onChangeText={(name) => this.setState({ name })}
+                        />
+                    </Item>
+
                     <Item floatingLabel>
                         <Label>Email</Label>
                         <Input 
@@ -84,14 +102,15 @@ export default class SignUp extends React.Component {
 
 const styles = StyleSheet.create({
     customButton: {
-        marginTop: 10,
+        marginTop: 15,
         backgroundColor: "#4DAFB2",
-        margin: 10
+        margin: 10,
     },
     container: {
         flex: 1,
         backgroundColor: '#fff',
         alignItems: 'center',
         justifyContent: 'center',
-    }
+    },
+
 });

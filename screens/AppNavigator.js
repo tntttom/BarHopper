@@ -3,6 +3,7 @@ import React, { Component } from "react";
 import { Text } from 'react-native';
 
 //app screens
+import Profile from './Profile';
 import Login from './Login';
 import SignUp from './SignUp';
 import MapScreen from './MapScreen';
@@ -12,6 +13,12 @@ import BarInformationScreen from './BarInformationScreen';
 
 //Every time a new screen is added, import it here 
 const AppNavigator = createStackNavigator({
+        Profile: {
+            screen: Profile,
+            navigationOptions: {
+                header: false,
+            }
+        },
         Login: {
             screen: Login,
             navigationOptions: {
