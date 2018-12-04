@@ -7,6 +7,7 @@ import {
 
 import { Container, Content, Header, Form, Input, Item, Button, Label } from 'native-base';
 import * as firebase from "react-native-firebase"
+import FBLogin, {LoginManager, AccessToken } from 'react-native-facebook-login'
 
 export default class Login extends React.Component {
  
@@ -21,13 +22,32 @@ export default class Login extends React.Component {
 
         this.loginUser = this.loginUser.bind(this);
       }
-
-      componentDidMount(){
-          firebase.auth().onAuthStateChanged((user) => {
-              if(user != null) {
-                  console.log(user)
+      _fbAuth(){
+          LoginManager.logInWithReadPermissions(['public_profile']).then(
+              function(result){
+                  if(result.isCancelled){
+                      alert('login cancelled')
+                  } else {
+                      AccessToken.getCurrentAccessToken().then((accessTokenData) => {
+                          const credential = firebase.auth.FacebookAuthProvider.credential(accessTokenData.accessToken)
+                          firebase.auth().signInWithCredential(credential).then((result) => {
+                              //promise successful
+                          }, (error) => {
+                            this.setState = ({
+                                response: error.toString()
+                            })
+                          })
+                      }, (error => {
+                          this.setState = ({
+                              response: "some error occurred"
+                          })
+                      }))
+                  }
+              },
+              function(error){
+                  alert('login failed with error ' + error)
               }
-          })
+          ); 
       }
 
       async loginUser(){
@@ -49,19 +69,6 @@ export default class Login extends React.Component {
           }
       }
 
-      async loginWithFacebook(){
-          const {type,token} = await Expo.Facebook.loginWithPermissionAsync('527770124365491',{ permissions: ['public_profile'] })
-
-          if(type == 'success') {
-              const credential = firebase.auth.FacebookAuthProvider.credential(token)
-
-              firebase.auth().signInWithCredential(credential).catch((error) => {
-                  this.setState({
-                      response: error.toString()
-                  })
-              })
-          }
-      }
 
     render(){
         return (
@@ -73,14 +80,6 @@ export default class Login extends React.Component {
                     </Text>
                  </View>
                 <Form>
-                    <Button style={styles.customButton}
-                        full
-                        rounded
-                        primary
-                        onPress={() => this.loginWithFacebook()}
-                    >
-                        <Text style={{ color: 'white' }}>Login with Facebook</Text>
-                    </Button>
                     <Item style = {{margin: 10}}
                         floatingLabel>
                         <Label>Email</Label>
