@@ -8,6 +8,35 @@
 		<data>
 		IISQMzc7ULo8nneMorsuNz8OEc0=
 		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		HK6asLJ70IK7E4e83e8R1gxACHo=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		/8LQToTPOL9FsEsYDaACQ21Day0=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		P6P66kW7+LvLIo4WHjXGltpT8CA=
+		</data>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<data>
+		xKX69bDGMJa2TcU/BC9ypZ06rsI=
+		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
 		<data>
 		bd/AjjbWiJUWvZUpX4Vapp32pk4=
@@ -726,6 +755,26 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>PlugIns/BarHopperTests.xctest.dSYM/Contents/Info.plist</key>
+		<data>
+		MOV/B01tOQNOAByHMjEAO/+FXR8=
+		</data>
+		<key>PlugIns/BarHopperTests.xctest.dSYM/Contents/Resources/DWARF/BarHopperTests</key>
+		<data>
+		mTcaZfNAw9xsBVx7rcPxR3Di/mE=
+		</data>
+		<key>PlugIns/BarHopperTests.xctest/BarHopperTests</key>
+		<data>
+		F3auuUJe1aiDX5CU7UQ3JjlA6GU=
+		</data>
+		<key>PlugIns/BarHopperTests.xctest/Info.plist</key>
+		<data>
+		qkjtrHmRmbJ6sEO3W+1vaKpvD7U=
+		</data>
+		<key>PlugIns/BarHopperTests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		hVhakCAICAhQ2s3MLefyVEkoLWg=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -738,6 +787,74 @@
 			<key>hash2</key>
 			<data>
 			a1XfREF/IPM7Qss3/QGbzQo/oHAJF+o324TuLAisut0=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			VfVpYXVjG5OK2j8J39CP2mIMg1P5eFaYkRIJ/Hb2RSQ=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HK6asLJ70IK7E4e83e8R1gxACHo=
+			</data>
+			<key>hash2</key>
+			<data>
+			olgg9NXiZ2M1ifvjBR8uTJxtXlM5EacLdDrNxfmImoY=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/8LQToTPOL9FsEsYDaACQ21Day0=
+			</data>
+			<key>hash2</key>
+			<data>
+			C7sJpbu4qpi8/rH5JYpdQYncotP69JQ9Fiu8jrHXYvU=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P6P66kW7+LvLIo4WHjXGltpT8CA=
+			</data>
+			<key>hash2</key>
+			<data>
+			2BV684CZjHtMZHxSiwC5qc/DGXv9WIOWUc9dEU/Q1pw=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xKX69bDGMJa2TcU/BC9ypZ06rsI=
+			</data>
+			<key>hash2</key>
+			<data>
+			jJ/zKe1SwWk9KkZ4MXV01NPW4QiHpU1aZhpfTDknkp0=
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
@@ -2150,6 +2267,61 @@
 			<key>hash2</key>
 			<data>
 			gXLTcUwXX+khsyOz7S82nq5QqSTtVnnfR9pKAVeInk4=
+			</data>
+		</dict>
+		<key>PlugIns/BarHopperTests.xctest.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MOV/B01tOQNOAByHMjEAO/+FXR8=
+			</data>
+			<key>hash2</key>
+			<data>
+			/7J9Sv6nhhv2wfBziQF8zqpkZoz8eHXatwZ5voW5eww=
+			</data>
+		</dict>
+		<key>PlugIns/BarHopperTests.xctest.dSYM/Contents/Resources/DWARF/BarHopperTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mTcaZfNAw9xsBVx7rcPxR3Di/mE=
+			</data>
+			<key>hash2</key>
+			<data>
+			opN2OGcp+W56v/ri8azHiIep/guOZ2ttwsfGayo1Ek0=
+			</data>
+		</dict>
+		<key>PlugIns/BarHopperTests.xctest/BarHopperTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			F3auuUJe1aiDX5CU7UQ3JjlA6GU=
+			</data>
+			<key>hash2</key>
+			<data>
+			jLUJq618rrSPvK9cPZsc2AzAVGW0PSNhFb2KNZcFCHg=
+			</data>
+		</dict>
+		<key>PlugIns/BarHopperTests.xctest/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qkjtrHmRmbJ6sEO3W+1vaKpvD7U=
+			</data>
+			<key>hash2</key>
+			<data>
+			F770AXBKy7SunlvP5siizjwRV1k7nTQiDfkpX6VinXY=
+			</data>
+		</dict>
+		<key>PlugIns/BarHopperTests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hVhakCAICAhQ2s3MLefyVEkoLWg=
+			</data>
+			<key>hash2</key>
+			<data>
+			5pUs61QJulJSYXwEiFvmBpg2FCQWHPLkxp/FxqMyV84=
 			</data>
 		</dict>
 	</dict>

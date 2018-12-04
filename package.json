@@ -1,4 +1,5 @@
 {
+  "proxy": "http://localhost:3030/yelp.json/",
   "name": "BarHopper",
   "version": "0.0.1",
   "private": true,
@@ -6,6 +7,8 @@
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "postinstall": "./node_modules/react-native-maps/enable-google-maps ./ios",
     "test": "jest"
+    
+
   },
   "dependencies": {
     "axios": "^0.18.0",

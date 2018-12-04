@@ -6,14 +6,19 @@ import axios from 'axios';
 
 const LATITUDE = 41.880060;
 const LONGITUDE = -87.626420;
-
 const config = {
-  headers: {'Authorization': 'rrGvy4AFVjsJ-dhNPO0AwETST5IPBbnazdu3ZDIw6r-th1pZLrkV7wvTxI_UW15yAjSCncL62CJWaTL9vLj3W5xlwdYvEj3Oz-J0RRdac4v4qh_WNw-aksbRFWQEXHYx'},
+  headers: {'Authorization': 'Bearer rrGvy4AFVjsJ-dhNPO0AwETST5IPBbnazdu3ZDIw6r-th1pZLrkV7wvTxI_UW15yAjSCncL62CJWaTL9vLj3W5xlwdYvEj3Oz-J0RRdac4v4qh_WNw-aksbRFWQEXHYx'},
   params: {
-      term: 'tacos',
-      location: 'main 123st'
+      term: 'Tourist Must See List',
+      radius: 0.5,
+      latitude: LATITUDE,
+      longitude: LONGITUDE,
+      sort_by: 'distance',
+      limit: 5,
   }
 }
+
+
 
 export default class ListScreen extends Component {
 
@@ -24,50 +29,81 @@ export default class ListScreen extends Component {
   }
 
   state = {
-    markers: [
-      {
-        name : 'Tommy'
-      },
-      {
-        name : 'Tyler'
-      },
-      {
-        name: 'Tommy'
-      },
-      {
-        name: 'Ryan'
-      },
-    ],
+    
     position: {
       latitude: LATITUDE,
       longitude: LONGITUDE,
-    }
+    },
+    data: [],
+
 
   };
 
-  componentWillMount() {
 
+    getLocation = () => {
+      return new Promise((resolve,reject) => {
         navigator.geolocation.getCurrentPosition(
-          (position) => {
-            this.setState({position});
-          }, 
-          (error) => alert(error),
-          {enableHighAccuracy: true, timeout: 20000, maximumAge: 1000}
-        );
+          position => {
+            let newPosition = {
+              latitude: position.coords.latitude,
+              longitude: position.coords.longitude,
+            };
+            config.params.latitude = newPosition.latitude;
+            config.params.longitude = newPosition.longitude;
 
-        axios.get('https://api.yelp.com/v3/businesses/search', config)
-        .then(response => console.log(response));
+
+            this.setState({
+              position: newPosition,
+            });
+            resolve(true);
+          }, 
+          err => {
+            console.log('error');
+            console.log(err);
+            reject(reject);
+          },
+          {enableHighAccuracy: true, timeout: 2000, maximumAge: 1000}
+        );
+      });
+    };
+
+      async componentWillMount() {
+        await this.getLocation();
+        
+        
+        
 
       }
   
-      componentDidMount() {
-        this.watchID = navigator.geolocation.watchPosition(
-          (position) => {
-            this.setState({position});
-          },
-          (error) => alert(error),
-          {enableHighAccuracy: true, timeout: 20000, maximumAge: 1000}
-          );
+      async componentDidMount() {
+        // this.watchID = navigator.geolocation.watchPosition(
+        //   (position) => {
+        //     this.setState({position});
+        //   },
+        //   (error) => alert(error),
+        //   {enableHighAccuracy: true, timeout: 20000, maximumAge: 1000}
+        //   );
+        // await this.getLocation();
+        // await this.fetchData();
+        await this.fetchData();
+
+        console.log(this.state.data)
+      }
+
+      async fetchData() {
+        return axios
+          .get('http://localhost:3030/yelp.json')
+          .then(responseJSON => {
+            this.setState({
+              isLoading: false,
+
+              data: responseJSON.data.businesses,
+
+            });
+          })
+          .catch(error => {
+            console.log(error);
+          });
       }
 
 
@@ -135,7 +171,7 @@ export default class ListScreen extends Component {
 
         
 
-          {this.state.markers.map((marker, index) => (
+          {this.state.data.map(() => (
 
               <TouchableOpacity onPress={() => this.props.navigation.push('InfoScreen')}>
 
