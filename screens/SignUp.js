@@ -64,7 +64,7 @@ export default class SignUp extends React.Component {
                         />
                     </Item>
 
-                    <Button style={{marginTop: 10}}
+                    <Button style={styles.customButton}
                         full
                         rounded
                         success
@@ -72,7 +72,7 @@ export default class SignUp extends React.Component {
                     >
                         <Text style={{ color: 'white' }}>Sign Up</Text>
                     </Button>
-                    
+
                     <View>
                         <Text>{this.state.response}</Text>
                     </View>
@@ -83,6 +83,11 @@ export default class SignUp extends React.Component {
 }
 
 const styles = StyleSheet.create({
+    customButton: {
+        marginTop: 10,
+        backgroundColor: "#4DAFB2",
+        margin: 10
+    },
     container: {
         flex: 1,
         backgroundColor: '#fff',

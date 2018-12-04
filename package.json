@@ -10,6 +10,7 @@
     "native-base": "^2.8.1",
     "react": "16.6.0-alpha.8af6728",
     "react-native": "0.57.4",
+    "react-native-facebook-login": "^1.6.1",
     "react-native-firebase": "^5.1.1",
     "react-native-maps": "^0.22.0",
     "react-navigation": "^2.18.2"

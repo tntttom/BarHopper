@@ -70,5 +70,19 @@
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
 	</array>
+	
+<key>CFBundleURLTypes</key>
+<array>
+  <dict>
+  <key>CFBundleURLSchemes</key>
+  <array>
+    <string>fb527770124365491</string>
+  </array>
+  </dict>
+</array>
+<key>FacebookAppID</key>
+<string>527770124365491</string>
+<key>FacebookDisplayName</key>
+<string>Bar Hopper</string>
 </dict>
 </plist>

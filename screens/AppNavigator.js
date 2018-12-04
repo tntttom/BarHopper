@@ -10,7 +10,7 @@ import Home from './Home';
 import ListScreen from './ListScreen';
 import BarInformationScreen from './BarInformationScreen';
 
-//Everytime a new screen is added, import it here 
+//Every time a new screen is added, import it here 
 const AppNavigator = createStackNavigator({
         Login: {
             screen: Login,
