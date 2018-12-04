@@ -22,6 +22,14 @@ export default class Login extends React.Component {
         this.loginUser = this.loginUser.bind(this);
       }
 
+      componentDidMount(){
+          firebase.auth().onAuthStateChanged((user) => {
+              if(user != null) {
+                  console.log(user)
+              }
+          })
+      }
+
       async loginUser(){
           try{
             await firebase.auth().signInWithEmailAndPassword(this.state.email, this.state.password);
@@ -41,6 +49,20 @@ export default class Login extends React.Component {
           }
       }
 
+      async loginWithFacebook(){
+          const {type,token} = await Expo.Facebook.loginWithPermissionAsync('527770124365491',{ permissions: ['public_profile'] })
+
+          if(type == 'success') {
+              const credential = firebase.auth.FacebookAuthProvider.credential(token)
+
+              firebase.auth().signInWithCredential(credential).catch((error) => {
+                  this.setState({
+                      response: error.toString()
+                  })
+              })
+          }
+      }
+
     render(){
         return (
 
@@ -51,6 +73,14 @@ export default class Login extends React.Component {
                     </Text>
                  </View>
                 <Form>
+                    <Button style={styles.customButton}
+                        full
+                        rounded
+                        primary
+                        onPress={() => this.loginWithFacebook()}
+                    >
+                        <Text style={{ color: 'white' }}>Login with Facebook</Text>
+                    </Button>
                     <Item style = {{margin: 10}}
                         floatingLabel>
                         <Label>Email</Label>
