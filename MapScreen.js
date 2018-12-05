@@ -249,7 +249,7 @@ const styles = StyleSheet.create({
     card: {
       padding: 10,
       elevation: 2,
-      backgroundColor: "red",
+      backgroundColor: "#4DAFB2",
       marginHorizontal: 10,
       // shadowColor: "#000",
       // shadowRadius: 5,
@@ -282,7 +282,7 @@ const styles = StyleSheet.create({
       width: 10,
       height: 10,
       borderRadius: 4,
-      backgroundColor: "red",
+      backgroundColor: "#4DAFB2",
     },
 
   });

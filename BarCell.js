@@ -1,16 +1,37 @@
 import React from 'react';
-import { StyleSheet, Text, View, Button} from 'react-native';
+import { StyleSheet, Text, View, Button, Image} from 'react-native';
 
 export default class BarCell extends React.Component {
     render() {
       return(
         <View style ={styles.cellContainer}>
+
           <View>
+             
   
           </View>
-            <View style={styles.imageCellContainer}>
+            <Image style={styles.imageCellContainer}
+            // source={uri = this.props.sourceURL}
+            >
   
+            </Image>
+
+            <View style={{alignContent:"center", flex: 0.5}}>
+
+            <Text style={{alignContent: "center", flex: 0.5}}>
+              {this.props.name}
+            </Text>
+
+            <Text>
+              {this.props.phone}
+            </Text>
+
+
+
             </View>
+            
+
+           
   
           </View>
       );
@@ -22,6 +43,7 @@ export default class BarCell extends React.Component {
         height: 100,
         backgroundColor: 'white',
         flex: 0.25,
+        flexDirection: 'row',
         borderTopLeftRadius: 50,
         borderBottomLeftRadius: 50,
         borderColor: '#2B9295',
@@ -31,9 +53,9 @@ export default class BarCell extends React.Component {
 
     imageCellContainer: {
         width: 100,
-        backgroundColor: 'gray',
-        flex: 1,
-        borderRadius: 50,
+        backgroundColor: '#2B9295',
+        flex: 0.25,
+        borderRadius: 48,
     },
 
   });

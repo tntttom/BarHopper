@@ -89,7 +89,7 @@ export default class ListScreen extends Component {
 
         console.log(this.state.data)
       }
-
+      //Fetching from local server, server fetches frmo API: Order goes: API>Server>App
       async fetchData() {
         return axios
           .get('http://localhost:3030/yelp.json')
@@ -171,12 +171,16 @@ export default class ListScreen extends Component {
 
         
 
-          {this.state.data.map(() => (
+          {this.state.data.map((business,index) => (
 
-              <TouchableOpacity onPress={() => this.props.navigation.push('InfoScreen')}>
+              <TouchableOpacity onPress={() => this.props.navigation.push('InfoScreen')}
+              key={business.alias}>
 
-                <BarCell />
-            
+                <BarCell  sourceURL={business.image_url}
+                name ={business.name}
+                phone = {business.display_phone}
+                />
+
                </TouchableOpacity>
                 ))}
 

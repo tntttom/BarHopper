@@ -9,13 +9,13 @@ export default class Home extends React.Component {
         <Text>Home Screen</Text>
         <Button 
           title="Go To Map"
-          color='red'
+          color='#2B9295'
           onPress={() => this.props.navigation.push('MapScreen')}
           />
         
         <Button
           title="Go To List"
-          color='red'
+          color='#2B9295'
           onPress={() => this.props.navigation.push('ListScreen')}
         />
       </View>
