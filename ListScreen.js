@@ -169,10 +169,10 @@ export default class ListScreen extends Component {
 
             <ScrollView style={styles.listView}>
 
-        
+
 
           {this.state.data.map((business,index) => (
-
+//Updated to show some data in the bar cell
               <TouchableOpacity onPress={() => this.props.navigation.push('InfoScreen')}
               key={business.alias}>
 
